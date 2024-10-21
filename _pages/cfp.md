@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /cfp/
 title: "Call for Paper"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /vta/
 title: "Venue, Travel and Accommodation"
 ---
