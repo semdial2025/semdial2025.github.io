@@ -1,9 +1,16 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Call for Paper"
+    url: /cfp/
+  - title: "Register"
+    url: /register/
+  - title: "Keynotes"
+    url: /keynotes/
+  - title: "Program"
+    url: /program/
+  - title: "Proceedings"
+    url: /proceedings/
+  - title: "Organisation"
+    url: /organisation/
+  - title: "Venue, Travel and Accommodation"
+    url: /vta/
+  
