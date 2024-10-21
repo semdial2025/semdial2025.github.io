@@ -1,13 +1,40 @@
 ---
 permalink: /
-title: "Bialogue"
+title: "SemDial 2025 - Bialogue"
 layout: splash
-header: #Todo get access to the foto database of Uni Bielefeld
-  image: /assets/Uni_Bielefeld.jpg
+excerpt: "29th WORKSHOP ON THE SEMANTICS AND PRAGMATICS OF DIALOGUE \\ 03-05 September 2025 \\ Bielefeld University \\ Germany"
+header:
+  overlay_image: /assets/Uni_Bielefeld.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  #image: /assets/Uni_Bielefeld.jpg
   image_description: 
   caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
+
+
+
+
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Welcome
+Bialogue will be the 29th edition of the SemDial workshop series and will take place in Bielefeld, Germany from September 03 to September 05, 2025 at Bielefeld University
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# About SemDial
+
+# Invited Speakers
+- Mark Dingemanse?
+
+# Technical Programme Chairs
+
+# Local Organizing Committee
+- [Hendrik Buschmeier]()
+- [Stefan Kopp]()
+- [Clara Lachenmaier]()
+- [Lina Mavrina]()
+- [Dagmar Philipp]()
+- [Amelie Robrecht]()
+- [Sina Zarrieß]() 
+
+# SemDial Board Chairs
+
+- [Ellen Breitholtz]() (University of Gothenburg)
+- [Julian Hough]() (Queen Mary University of London)
