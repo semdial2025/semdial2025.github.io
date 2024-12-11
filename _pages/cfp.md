@@ -33,9 +33,6 @@ This year, the conference will center around the theme: [Insert Special Theme, i
 - Interdisciplinary perspectives, including enactive and ecological approaches to dialogue
 - Applications of innovative theoretical models to dialogue research
 
-## Special Topic
-
-
 
 # Submission Details
 Submissions should meet the following requirements: 
