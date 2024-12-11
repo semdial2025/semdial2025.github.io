@@ -7,8 +7,6 @@ main:
   #  url: /keynotes/
   - title: "Program"
     url: /program/
-  - title: "Organisation"
-    url: /organisation/
   - title: "Venue"
     url: /vta/
   
