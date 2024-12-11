@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "SemDial 2025 - Bialogue"
+#title: "SemDial 2025 - Bialogue"
 layout: splash
-excerpt: "29th WORKSHOP ON THE SEMANTICS AND PRAGMATICS OF DIALOGUE \\ 03-05 September 2025 \\ Bielefeld University \\ Germany"
+#excerpt: "29th WORKSHOP ON THE SEMANTICS AND PRAGMATICS OF DIALOGUE \\ 03-05 September 2025 \\ Bielefeld University \\ Germany"
 header:
-  overlay_image: /assets/Uni_Bielefeld.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  #image: /assets/Uni_Bielefeld.jpg
-  image_description: 
-  caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
+  #overlay_image: /assets/Uni_Bielefeld.jpg
+  #overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  image: /assets/Bialogue_header.svg
+  #image_description: 
+  #caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
 
 
 
