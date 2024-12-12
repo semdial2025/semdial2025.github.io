@@ -2,9 +2,16 @@
 layout: single
 permalink: /register/
 title: "Register"
-toc: true
+toc: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Register online via [Bialogue EventBright Registration Page]() <br>
+To ensure your paper is presented in the main SemDial sessions, at least one author must complete registration by ?. For other attendees, onsite registration is also required by ?.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Pricing
+
+|              |                   |
+| ------------ | ----------------- |
+| Students | 90 € |
+| Others | 180 € |
+
