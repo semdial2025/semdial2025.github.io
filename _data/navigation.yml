@@ -1,10 +1,10 @@
 main:
   - title: "Call for Paper"
     url: /cfp/
-  - title: "Register"
-    url: /register/
+  #- title: "Register"
+  #  url: /register/
   #- title: "Keynotes"
-  #  url: /keynotes/
+   # url: /keynotes/
   #- title: "Program"
   #  url: /program/
   - title: "Venue"

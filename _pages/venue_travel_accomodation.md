@@ -5,6 +5,40 @@ title: "Venue, Travel and Accommodation"
 toc: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Venue
+Bialogue will take place at Bielefeld University, Universitätsstraße 24, 33615 Bielefeld, X-Building 
+![Map of Bielfeld](../assets/map.jpg)
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+
+# Travel to Venue
+
+## By Public Transport (from the city center) 
+**By Tram:** From the city center (Tram stop *Jahnplatz*, *Hauptbahnhof* or *Rathaus* take tram line 4 towards *Lohmannshof* or *Universität* and get off at the stop *Universität* (travel time: 7 minutes) <br>
+**By Bus:**
+
+## By Car
+There are numerous free parking spaces available on campus.
+
+**From the North:** Take the A2 motorway, exit at Bi-Ost, and follow Detmolder Str. towards the city center (6 km, approximately 10 minutes). Follow the route via Kreuzstr., Oberntorwall, Stapenhorststr., and Kurt-Schumacher-Str. (signposted).
+
+**From the South:** Take the A2 motorway. At the Bielefeld junction, switch to the A33 towards Bi-Zentrum. Exit at Bi-Zentrum and continue towards the city center on Ostwestfalendamm (B61). Take the Universität exit and follow the route via Stapenhorststr. and Kurt-Schumacher-Str. (signposted).
+
+
+# Travelling to Bielefeld by plane
+
+# Accomodations
+There are hotel contigents for attendees of Bialogue. 
+- Hotel 1
+- Hotel 2
+
+
+# What to do in Bielefeld
+
+During your free time, Bielefeld offers a variety of activities to explore. You can visit [Sparrenburg Castle](https://www.bielefeld.jetzt/sparrenburg), a landmark of the city with panoramic views and historical significance. The [Old Town](https://www.bielefeld.jetzt/node/23313) features a mix of historic architecture, small shops, and cafés.
+
+For those interested in art, the [Kunsthalle Bielefeld](https://kunsthalle-bielefeld.de) hosts exhibitions of modern and contemporary art. If you prefer nature, the nearby [Teutoburg Forest provides trails for walking or hiking](https://www.bielefeld.jetzt/wandern#/de/bielefeld/default/finder/Tour/all:all%20-category:%22Fernradweg%22/all:all%20-category:%22regionale%20Radtour%22/all:all%20-category:%22Jogging-_-Nordic-Walking%22/category:%22regionaler%20Wanderweg%22OR%22Fernwanderweg%22OR%22Naturparktrails%22/city:%20bielefeld/climb:0,2000/difficulty:1,5/distance:0,100/duration:0,10/family:0/reststop:0/roundtour:0/sort:relevance/view:gallery).
+
+In the evenings, Bielefeld has several restaurants, theaters, and cultural venues to explore at your own pace.
+
+For more tips try [Bielefeld's personalizable travel guide](https://www.plazy.travel/destination-info/16851/was-du-ueber-bielefeld-wissen-solltest)

@@ -16,7 +16,7 @@ layout: single
 # Information
 We invite submissions to Bialogue, the 29th edition of the SemDial workshop series. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
 # Topics
-This year, the conference will center around the theme: [Insert Special Theme, if any]. We particularly encourage work that explores this theme, but submissions are welcome from all areas presenting formal, computational, and empirical approaches to the semantics and pragmatics of dialogue, including but not limited to:
+This year, the conference will center around the theme: **Meaningful Interaction**. We particularly encourage work that explores this theme, but submissions are welcome from all areas presenting formal, computational, and empirical approaches to the semantics and pragmatics of dialogue, including but not limited to:
 - Dynamics of agents' information states in dialogue
 - Common ground and mutual belief
 - Goals, intentions, and commitments in communication
