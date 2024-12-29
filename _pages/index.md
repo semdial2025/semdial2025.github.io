@@ -39,6 +39,7 @@ Bialogue's theme will be “Meaningful Interaction”, which …
 - [Stefan Kopp]()
 - [Clara Lachenmaier]()
 - [Lina Mavrina]()
+- [Maryam Mohammadi]()
 - [Dagmar Philipp]()
 - [Amelie Robrecht]()
 - [Sina Zarrieß]() 
