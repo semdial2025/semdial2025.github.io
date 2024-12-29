@@ -13,10 +13,15 @@ layout: single
 ---
 
 
-# Information
+## Information
+
 We invite submissions to Bialogue, the 29th edition of the SemDial workshop series. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
-# Topics
-This year, the conference will center around the theme: **Meaningful Interaction**. We particularly encourage work that explores this theme, but submissions are welcome from all areas presenting formal, computational, and empirical approaches to the semantics and pragmatics of dialogue, including but not limited to:
+
+
+## Topics
+
+This year, the conference will center around the theme “Meaningful Interaction”. We particularly encourage work that explores this theme, but submissions are welcome from all areas presenting formal, computational, and empirical approaches to the semantics and pragmatics of dialogue, including but not limited to:
+
 - Dynamics of agents' information states in dialogue
 - Common ground and mutual belief
 - Goals, intentions, and commitments in communication
@@ -34,12 +39,14 @@ This year, the conference will center around the theme: **Meaningful Interaction
 - Applications of innovative theoretical models to dialogue research
 
 
-# Submission Details
+## Submission Details
+
 Submissions should meet the following requirements: 
   - Papers should be original, unpublished, and not under review elsewhere.
   - Papers that have been or will be submitted to other meetings or publications must provide this information, using a footnote on the title page of the submissions.
   - Papers should follow the ACL 2025 formatting guidelines and use the [ACL submission templates](https://github.com/acl-org/acl-style-files/tree/master).
   - Submissions should be anonymized PDF-files.
+
 
 **Long papers**: At most 8 pages of content (up to 2 additional pages are allowed for references).
 
@@ -49,14 +56,15 @@ Papers can be submitted using our [EasyChair conference management submission si
 #TODO: Do we want to use Easychair? If yes: make a submission site
 
 
-# Important Dates
-**All deadlines are 11.59 pm UTC -12h ("anywhere on Earth")**
+## Important Dates
 
-|                            |               | 
-| -------------------------- | ------------- |
-| Long Paper Deadline        |  May 16, 2025|   
-| Notification | June 13, 2025 |
-| Final versions      | July 04, 2025 |
-| Short Paper/Poster Deadline | July 18, 2025  |
-| Bialogue Workshop | September 03-05, 2025 |
+**All deadlines are 23:59 UTC -12h (“Anywhere on Earth”)**
+
+|                             |                     | 
+| --------------------------- | ------------------- |
+| Long Paper Deadline         | May 16, 2025        |   
+| Notification                | June 13, 2025       |
+| Final versions              | July 4, 2025        |
+| Short Paper/Poster Deadline | July 18, 2025       |
+| Bialogue Workshop           | September 3–5, 2025 |
 
