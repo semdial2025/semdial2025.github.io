@@ -62,7 +62,8 @@ Papers can be submitted using our [EasyChair conference management submission si
 
 |                             |                     | 
 | --------------------------- | ------------------- |
-| Long Paper Deadline         | May 16, 2025        |   
+| Long Paper Deadline         | May 16, 2025        |
+| Reviews due to:             | June 06, 2025       |
 | Notification                | June 13, 2025       |
 | Final versions              | July 4, 2025        |
 | Short Paper/Poster Deadline | July 18, 2025       |
