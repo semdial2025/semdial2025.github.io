@@ -23,7 +23,7 @@ After 24 years ([BI-DIALOG 2001]()) SemDial returns to Bielefeld!
 
 Bielefeld University has more than 30 years of history in dialogue research spanning computational, empirical, formal and multimodal apporaches. Its thriving linguistics department is well known for its interdisciplinary approach to research, as examplified in large collaborative research centres where dialogue and interaction was and are central themes: SFB 360, SFB 673, CITEC, TRR 318, SFB 1646.
 
-Bialogue's theme will be “Meaningful Interaction”, which …
+Bialogue's theme will be “Meaningful Interaction”, which … # definition and usage of the concept meaning from different perspectives; human-machine interaction based on cognitive principles; focussing on the deeper cognitive processes behind human utterance and machine output
 
 
 ## Invited Speakers
@@ -48,4 +48,4 @@ Bialogue's theme will be “Meaningful Interaction”, which …
 ## SemDial Board Chairs
 
 - [Ellen Breitholtz]() (University of Gothenburg)
-- [Julian Hough]() (Queen Mary University of London)
+- [Julian Hough]() (Swansea University)
