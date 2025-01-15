@@ -69,6 +69,6 @@ Papers can be submitted using our [EasyChair conference management submission si
 | Short Paper/Poster Deadline | July 18, 2025       |
 | Notification                | July 25, 2025       |
 | Camera Ready (Posters)      | August 09, 2025     |
-| Registration Deadline       | August 15. 2025     |
+| Registration Deadline       | August 15, 2025     |
 | Bialogue Workshop           | September 3–5, 2025 |
 
