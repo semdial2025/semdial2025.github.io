@@ -15,7 +15,7 @@ layout: single
 
 ## Information
 
-We invite submissions to Bialogue, the 29th edition of the SemDial workshop series. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
+We invite submissions to Bialogue 2025, the 29th edition of the SemDial workshop series. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
 
 
 ## Topics
@@ -44,7 +44,7 @@ This year, the conference will center around the theme “Meaningful Interaction
 Submissions should meet the following requirements: 
   - Papers should be original, unpublished, and not under review elsewhere.
   - Papers that have been or will be submitted to other meetings or publications must provide this information, using a footnote on the title page of the submissions.
-  - Papers should follow the ACL 2025 formatting guidelines and use the [ACL submission templates](https://github.com/acl-org/acl-style-files/tree/master).
+  - Papers should follow the ACL 2025 formatting guidelines and use the [ACL submission templates](https://github.com/acl-org/acl-style-files/).
   - Submissions should be anonymized PDF-files.
 
 
