@@ -10,12 +10,10 @@
 
 # Site settings
 # These are used to personalize your new site. 
-title: Bialogue
+title: Bialogue 2025 – the 29th Workshop on the Semantics and Pragmatics of Dialogue
 title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Bialogue 2025 – the 29th Workshop on the Semantics and Pragmatics of Dialogue
 search: true
 url: semdial2025.github.io
 repository: "semdial2025/semdial2025.github.io"
