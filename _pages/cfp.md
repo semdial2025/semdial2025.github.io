@@ -46,14 +46,11 @@ Submissions should meet the following requirements:
   - Papers that have been or will be submitted to other meetings or publications must provide this information, using a footnote on the title page of the submissions.
   - Papers should follow the ACL 2025 formatting guidelines and use the [ACL submission templates](https://github.com/acl-org/acl-style-files/).
   - Submissions should be anonymized PDF-files.
-
+  - Submission will open March 1, 2025.
 
 **Long papers**: At most 8 pages of content (up to 2 additional pages are allowed for references).
 
 **Short papers**: At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
-
-Papers can be submitted using our [EasyChair conference management submission site](https://easychair.org). 
-#TODO: Do we want to use Easychair? If yes: make a submission site
 
 
 ## Important Dates
@@ -62,6 +59,7 @@ Papers can be submitted using our [EasyChair conference management submission si
 
 |                             |                     | 
 | --------------------------- | ------------------- |
+| Submission Opens            | March 1, 2025       |
 | Long Paper Deadline         | May 16, 2025        |
 | Reviews due to              | June 06, 2025       |
 | Notification                | June 13, 2025       |
