@@ -23,15 +23,7 @@ After 24 years ([BI-DIALOG 2001]()) SemDial returns to Bielefeld!
 
 Bielefeld University has more than 30 years of history in dialogue research spanning computational, empirical, formal and multimodal apporaches. Its thriving linguistics department is well known for its interdisciplinary approach to research, as examplified in large collaborative research centres where dialogue and interaction were and are central themes: [SFB 360](http://www.sfb360.uni-bielefeld.de), [SFB 673](https://wwwhomes.uni-bielefeld.de/sfb-673/), [CITEC](https://www.uni-bielefeld.de/zwe/citec/), [TRR 318](https://trr318.uni-paderborn.de/en/), [SFB 1646](https://www.uni-bielefeld.de/sfb/sfb1646/).
 
-Bialogue 2025's theme will be “Meaningful Interaction”, which … # definition and usage of the concept meaning from different perspectives; human-machine interaction based on cognitive principles; focussing on the deeper cognitive processes behind human utterance and machine output
-
-
-## Invited Speakers
-
-- tba
-- tba
-- tba
-
+The theme of Bialogue 2025 is "Meaningful Interaction". The communication of meaning in interactive dialogue between humans and machines has always been the focus of SemDial workshops. Recent developments in natural language processing have brought artificial conversational agents out of the lab and into everyday interactions with technology, bringing urgency to the question of whether such interactions are actually meaningful. A special focus of Bialogue 2025 will therefore be on empirical, theoretical, and computational work that investigates the prerequisites for meaningful interaction, such as cognitive mechanisms, computational representations, but also human users' attitudes or ethical considerations.
 
 ## Local Organizing Committee
 
