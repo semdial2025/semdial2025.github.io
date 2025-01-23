@@ -11,6 +11,8 @@ main:
   #  url: /program/
   - title: "Venue"
     url: /vta/
+  - title: "Contact"
+    url: /contact/
   - title: "Impressum"
     url: https://www.uni-bielefeld.de/impressum/
   
