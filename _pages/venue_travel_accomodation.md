@@ -8,7 +8,7 @@ toc: true
 # Venue
 Bialogue will take place at Bielefeld University, Bielefeld, Germany
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.452734947204592%2C52.02498328765092%2C8.535132408142092%2C52.0499305405084&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=15/52.03746/8.49393">View Larger Map</a></small>
+<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.45329284667969%2C52.02574907179075%2C8.53569030761719%2C52.05069589741691&amp;layer=mapnik&amp;marker=52.03822422482893%2C8.494491577148438" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.03822&amp;mlon=8.49449#map=15/52.03822/8.49449">View Larger Map</a></small>
 
 
 
