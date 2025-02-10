@@ -30,8 +30,8 @@ There are numerous free parking spaces available on campus.
 
 # Accomodations
 There are hotel contigents for attendees of Bialogue. 
-- Hotel 1
-- Hotel 2
+
+* tba
 
 
 # What to do in Bielefeld
