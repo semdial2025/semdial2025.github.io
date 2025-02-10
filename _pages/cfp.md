@@ -50,7 +50,7 @@ Submissions should meet the following requirements:
 
 **Long papers**: At most 8 pages of content (up to 2 additional pages are allowed for references).
 
-**Short papers**: At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
+**Short papers/Posters**: At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
 
 
 ## Important Dates
@@ -59,14 +59,13 @@ Submissions should meet the following requirements:
 
 |                             |                     | 
 | --------------------------- | ------------------- |
-| Submission Opens            | March 1, 2025       |
+| Submission opens            | March 1, 2025       |
 | Long Paper Deadline         | May 16, 2025        |
-| Reviews due to              | June 06, 2025       |
-| Notification                | June 13, 2025       |
-| Camera Ready (Long Paper)   | July 04, 2025       |
+| Reviews due                 | June 6, 2025        |
+| Notification (long)         | June 13, 2025       |
+| Camera Ready (long)         | July 4, 2025        |
 | Short Paper/Poster Deadline | July 18, 2025       |
-| Notification                | July 25, 2025       |
-| Camera Ready (Posters)      | August 09, 2025     |
+| Notification (short)        | July 25, 2025       |
+| Camera Ready (short/posters)| August 9, 2025      |
 | Registration Deadline       | August 15, 2025     |
-| Bialogue Workshop           | September 3–5, 2025 |
-
+| Bialogue 2025               | September 3–5, 2025 |
