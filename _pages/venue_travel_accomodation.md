@@ -6,8 +6,9 @@ toc: true
 ---
 
 # Venue
-Bialogue will take place at Bielefeld University, Universitätsstraße 24, 33615 Bielefeld, X-Building 
-![Map of Bielfeld](../assets/map.jpg)
+Bialogue will take place at Bielefeld University, Bielefeld, Germany
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.452734947204592%2C52.02498328765092%2C8.535132408142092%2C52.0499305405084&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=15/52.03746/8.49393">View Larger Map</a></small>
 
 
 
