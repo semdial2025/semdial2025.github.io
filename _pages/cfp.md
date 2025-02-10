@@ -15,7 +15,7 @@ layout: single
 
 ## Information
 
-We invite submissions to Bialogue 2025, the 29th edition of the SemDial workshop series. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
+We invite submissions for Bialogue 2025, the 29th edition of the SemDial workshop series at Bielefeld University, Germany. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
 
 
 ## Topics
