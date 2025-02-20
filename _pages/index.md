@@ -19,7 +19,7 @@ Bialogue 2025 will be the 29th edition of the [SemDial workshop series](https://
 
 ## Bialogue – Meaningful Interaction
 
-After 24 years ([BI-DIALOG 2001]()) SemDial returns to Bielefeld! 
+After 24 years ([BI-DIALOG 2001](https://web.archive.org/web/20020803032540/http://www.uni-bielefeld.de/BIDIALOG/)) SemDial returns to Bielefeld! 
 
 Bielefeld University has more than 30 years of history in dialogue research spanning computational, empirical, formal and multimodal apporaches. Its thriving linguistics department is well known for its interdisciplinary approach to research, as examplified in large collaborative research centres where dialogue and interaction were and are central themes: [SFB 360](http://www.sfb360.uni-bielefeld.de), [SFB 673](https://wwwhomes.uni-bielefeld.de/sfb-673/), [CITEC](https://www.uni-bielefeld.de/zwe/citec/), [TRR 318](https://trr318.uni-paderborn.de/en/), [SFB 1646](https://www.uni-bielefeld.de/sfb/sfb1646/).
 
