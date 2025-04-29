@@ -28,6 +28,7 @@ The theme of Bialogue 2025 is "Meaningful Interaction". The communication of mea
 ## Local Organizing Committee
 
 - [Hendrik Buschmeier](https://purl.org/net/hbuschme)
+- [Nikolai Ilinykh](https://www.gu.se/en/event/nikolai-ilinykh-computational-models-of-language-and-vision-studies-of-neural-models-as-learners-of-multi-modal-knowledge)
 - [Stefan Kopp](https://www.techfak.uni-bielefeld.de/~skopp)
 - [Clara Lachenmaier](https://de.linkedin.com/in/clara-lachenmaier-a088472ba)
 - [Lina Mavrina](https://www.linkedin.com/in/lina-mavrina-a9358a292/)
