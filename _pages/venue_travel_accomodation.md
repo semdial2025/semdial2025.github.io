@@ -31,7 +31,7 @@ There are numerous free parking spaces available on campus.
 # Accomodations
 There are hotel contigents for attendees of Bialogue. 
 
-* tba
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vKoDnb46CTiby6mv5ZRR15HYhIIuUyk&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 
 # What to do in Bielefeld
