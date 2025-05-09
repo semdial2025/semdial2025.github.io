@@ -31,6 +31,80 @@ There are numerous free parking spaces available on campus.
 # Accomodations
 There are hotel contigents for attendees of Bialogue. 
 
+<div class="row">
+  <div class="col">
+    <h4><a href="https://www.hotel-bb.com/de/hotel/bielefeld-city">B&amp;B Hotel City</a></h4>
+    <p>Europa Platz 2<br> 33613 Bielefeld<br>
+    Tel: <a href="tel:+49521304330">+49 521 30433-0</a><br>
+    Mail: <a href="mailto:bielefeld-city@hotelbb.com">bielefeld-city@hotelbb.com</a><br>
+    Cost: 70,00 € incl. breakfast</p>
+  </div>
+  <div class="col">
+    <h4><a href= "https://hrewards.com/de/steigenberger-hotel-bielefelder-hof">Steigenberger Hotel Bielefelder Hof</a></h4>
+    <p>Am Bahnhof 3<br>
+    33602 Bielefeld<br>
+    Tel: <a href="tel:+4952152820">+49 521 5282 0</a><br>
+    Mail: <a href="mailto:bielefelder-hof@steigenberger.com"> bielefelder-hof@steigenberger.com</a><br>
+    Cost: 129-164 € incl. breakfast<br>
+    Booking Code: MB123U </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <h4><a href="https://www.brenner-hotel-bielefeld.de">Brenner Hotel</a></h4>
+    <p>Otto-Brenner-Straße 135<br> 33607 Bielefeld<br>
+    Tel: <a href="tel:+4952129990"> +49 521 299 90</a><br>
+  Mail: <a href="mailto:mailto:info@brenner-hotel.de">info@brenner-hotel.de</a> <br>
+    Cost: starting at 66,00 € excl. breakfast</p>
+  </div>
+  <div class="col">
+    <h4><a href="https://all.accor.com/hotel/B8G6/index.de.shtml">Ibis Styles</a></h4>
+    <p>Niederwall 31-35<br>
+    33602 Bielefeld<br>
+    Tel: <a href="tel:+4952152530">+49 521 52530</a><br>
+    Mail: <a href="mailto:info@hb8g6@accor.com">hb8g6@accor.com</a><br>
+    Cost: 105,00-128,00€ incl. breakfast<br>
+    Booking Code: BLOCK – ID-766320 (until 03.08.2025)</p>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <h4><a href="https://www.legere-hotelgroup.com/hotels/legere-express-bielefeld">Légère Express Bielefeld</a></h4>
+    <p>Kavalleriestraße 9<br> 33602 Bielefeld<br>
+    Tel: <a href="tel:+495219238440">+49 521 9238440</a><br>
+    Mail: <a href="mailto:reservations.bielefeld@legere-hotelgroup.com">reservations.bielefeld@legere-hotelgroup.com</a><br>
+    Cost: 109,00-119,00 € incl. breakfast<br>
+    <a href="https://onepagebooking.com/legereexpressbielefeld?module=public&ratetype=sbd&lang=de&arrival=02.09.2025&departure=06.09.2025&filter=true">Booking Link</a></p>
+  </div>
+  <div class="col">
+    <h4><a href="https://www.comfort-garni.de">Comfort Garni Hotel</a></h4>
+    <p>Bahnhofstr. 32<br>
+    33602 Bielefeld<br>
+    Tel:<a href="tel:+49521521980">+49 521 521 980</a><br>
+    Mail: <a href="mailto:hotel@comfort-garni.de">hotel@comfort-garni.de</a><br>
+    Cost: starting at 75€ incl. breakfast</p>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+     <h4><a href="https://www.jugendherberge.de/jugendherbergen/bielefeld/">Jugendherberge Bielefeld (DJH)</a></h4>
+    <p>Hermann-Kleinewächter-Str. 1<br>33602 Bielefeld<br>
+    Tel: <a href="tel:+49521522050"> +49 521 522050 </a><br>
+    Mail:<a href="mailto:jgh-bielefeld@djh-wl.de">jgh-bielefeld@djh-wl.de</a><br>
+    Cost: 74,9 € incl. breakfast<br>
+    Only group bookings possible</p>
+  </div>
+  <div class="col">
+    <h4><a href="https://ravensbergerhof.com/">Ravensberger Hof</a></h4>
+    <p>Güsenstraße 4<br>
+    33602 Bielefeld<br>
+    Tel: <a href="tel:+4952198625993">+49 521 98625993</a><br>
+    Mail: <a href="mailto:info@ravensberger-hof.com">info@ravensberger-hof.com</a><br>
+    Cost: 135 € excl. breakfast<br>
+    10 available rooms for conference attendees</p>
+  </div>
+</div>
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vKoDnb46CTiby6mv5ZRR15HYhIIuUyk&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 
