@@ -46,11 +46,12 @@ Submissions should meet the following requirements:
   - Papers that have been or will be submitted to other meetings or publications must provide this information, using a footnote on the title page of the submissions.
   - Papers should follow the ACL 2025 formatting guidelines and use the [ACL submission templates](https://github.com/acl-org/acl-style-files/).
   - Submissions should be anonymized PDF-files.
-  - Submission will open March 1, 2025.
 
 **Long papers**: At most 8 pages of content (up to 2 additional pages are allowed for references).
 
 **Short papers/Posters**: At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
+
+**Submission**: Please submit you paper via [Open Review](https://openreview.net/group?id=SemDial.org/2025/Bialogue)
 
 
 ## Important Dates
