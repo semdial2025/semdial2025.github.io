@@ -47,9 +47,18 @@ Submissions should meet the following requirements:
   - Papers should follow the ACL 2025 formatting guidelines and use the [ACL submission templates](https://github.com/acl-org/acl-style-files/).
   - Submissions should be anonymized PDF-files.
 
-**Long papers**: At most 8 pages of content (up to 2 additional pages are allowed for references).
+**Long papers**: 
 
-**Short papers/Posters**: At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
+<span style="color:red">Attention: updated instruction</span>
+
+* At most 8 pages of content,
+* (optional) unlimited extra space after the conclusion for limitations and optionally ethical considerations, 
+* unlimited pages of references,
+* (optional) unlimited pages for appendices (but please be selective).
+
+**Short papers/Posters**: 
+
+* At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
 
 **Submission**: Please submit you paper via [Open Review](https://openreview.net/group?id=SemDial.org/2025/Bialogue)
 
@@ -61,10 +70,10 @@ Submissions should meet the following requirements:
 |                             |                     | 
 | --------------------------- | ------------------- |
 | Submission opens            | March 1, 2025       |
-| Long Paper Deadline         | May 16, 2025        |
-| Reviews due                 | June 6, 2025        |
-| Notification (long)         | June 13, 2025       |
-| Camera Ready (long)         | July 4, 2025        |
+| Long Paper Deadline         | ~~May 16, 2025~~ June 2, 2025        |
+| Reviews due                 | June 23, 2025        |
+| Notification (long)         | June 27, 2025       |
+| Camera Ready (long)         | July 18, 2025        |
 | Short Paper/Poster Deadline | July 18, 2025       |
 | Notification (short)        | July 25, 2025       |
 | Camera Ready (short/posters)| August 9, 2025      |
