@@ -20,8 +20,8 @@ layout: single
 |                             |                     | 
 | --------------------------- | ------------------- |
 | Long Paper Deadline         | ~~May 16, 2025~~ June 2, 2025        |
-| Reviews due to              | June 23, 2025       |
-| Notification                | June 27, 2025       |
+| Reviews due to              | June 30, 2025       |
+| Notification                | July 4, 2025        |
 | Camera Ready (Long Paper)   | July 18, 2025       |
 | Short Paper/Poster Deadline | July 18, 2025       |
 | Notification                | July 25, 2025       |
