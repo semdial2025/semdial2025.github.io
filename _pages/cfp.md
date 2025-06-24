@@ -71,8 +71,8 @@ Submissions should meet the following requirements:
 | --------------------------- | ------------------- |
 | Submission opens            | March 1, 2025       |
 | Long Paper Deadline         | ~~May 16, 2025~~ June 2, 2025        |
-| Reviews due                 | June 23, 2025        |
-| Notification (long)         | June 27, 2025       |
+| Reviews due                 | June 30, 2025        |
+| Notification (long)         | July 04, 2025       |
 | Camera Ready (long)         | July 18, 2025        |
 | Short Paper/Poster Deadline | July 18, 2025       |
 | Notification (short)        | July 25, 2025       |
