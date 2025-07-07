@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /program/
-title: "Program"
+title: "Preliminary Program"
 header:
   overlay_image: /assets/Uni_Bielefeld.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
@@ -10,41 +10,32 @@ header:
   caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
 toc: true
 ---
-Proceedings of this year's Semdial are available [here](https://www.semdial.org/anthology/venues/semdial/)
-# Wednesday, September 03 2025
 
-|                            |               |             |             |
-| -------------------------- | ------------- | ----------- | ----------- |
-| 8:30 - 10:00                 | Registration | | Lobby X Building |
-| 9:50 - 10:00                 | Opening Session | Hendrik Buschmeier, Sina Zarrieß or Stefan Kopp | tba |
-| 10:00 - 11:00                | Keynote 1 | tba | tba |
-| 11:00 - 11:30 | Coffee break | | Mensa X Building |
-| 11:30- 13:00   | Talks Session 1 | Speaker 1: Title 1 <br> Speaker 2: Title 2 <br> Speaker 3: Title 3 | tba |
-| 13:00 - 14:00 | Lunch break | | Mensa X Building |
-| 14:00- 15:30   | Talks Session 2 | Speaker 4: Title 4 <br> Speaker 5: Title 5 <br> Speaker 6: Title 6 | tba |
-| 15:30- 17:00   | Coffe break + Poster session 1 | Poster 1 : Title 1 <br> Poster 1 : Title 2 <br> Poster 3 : Title 3 | tba |
-| 17:00- 18:30   | Talks Session 3 | Speaker 7: Title 7 <br> Speaker 8: Title 8 <br> Speaker 9: Title 9 | tba |
-
-
-# Thursday, September 04 2025
-
-|                            |               |             |             |
-| -------------------------- | ------------- | ----------- | ----------- |
-| 8:30 - 9:30                 | Registration | | Lobby X Building |
-| 9:30 - 11:00                 | Talks Session 4 | Speaker 10: Title 10 <br> Speaker 11: Title 11 <br> Speaker 12: Title 12 | tba |
-| 11:00 - 11:30 | Coffee break | | Mensa X Building |
-| 11:30- 13:00   | Talks Session 5 | Speaker 13: Title 13 <br> Speaker 14: Title 14 <br> Speaker 15: Title 15 | tba |
-| 13:00 - 14:00 | Lunch break | | Mensa X Building |
-| 14:00- 15:00   | Keynote 2 | tba | tba |
-| 15:00- 16:30   | Coffe break + Poster session 2 | Poster 1 : Title 1 <br> Poster 1 : Title 2 <br> Poster 3 : Title 3 | tba |
-| 16:30- 18:00   | Talks Session 6 | Speaker 16: Title 16 <br> Speaker 17: Title 17 <br> Speaker 18: Title 18 | tba |
-| 19:00-22:00                | Conference Dinner| | tba |
-
-# Friday, September 05 2025
-
-|                            |               |             |             |
-| -------------------------- | ------------- | ----------- | ----------- |
-| 9:00 - 10:00                 | Keynote 1 | tba | tba |
-| 10:00 - 11:30              | Talks Session 7 | Speaker 19: Title 19 <br> Speaker 20: Title 20 <br> Speaker 21: Title 21 | tba |
-| 11:30 - 12:00 | Closing session | Hendrik Buschmeier, Sina Zarrieß or Stefan Kopp | tba |
-| 12:00 - 14:00 | Lunch | | Mensa X Building |
+|  |  |
+| ----- | ----- |
+| **Wednesday, September 3, 2025** | |
+| 08:00–09:00 | Registration |
+| 09:00–09:15 | Welcome |
+| 09:15–10:30 | Keynote: Arabella Sinclair |
+| 10:30–10:50 | Coffee Break |
+| 10:50–12:20 | Session 1 (3 talks) |
+| 12:20–13:40 | Lunch Break |
+| 13:40–15:40 | Session 2 (4 talks) |
+| 15:40–16:00 | Coffee Break |
+| 16:00–17:30 | Poster Session 1 |
+| 17:30–18:30 | Welcome Reception |
+| **Thursday, September 4, 2025** | |
+| 08:30–09:00 | Registration |
+| 09:00–10:30 | Session 3 (3 talks) |
+| 10:30–11:00 | Coffee Break |
+| 11:00–12:30 | Session 4 (3 talks) |
+| 12:30–14:00 | Lunch Break |
+| 14:00–15:30 | Poster Session 2 |
+| 15:30–16:00 | Coffee Break |
+| 16:00–17:15 | Keynote: Robert Hawkins |
+| 18:30–      | Conference Dinner |
+| **Friday, September 5, 2025** | |
+| 09:00–11:00 | Session 5 (4 talks)| 
+| 11:00–11:30 | Coffee Break| 
+| 11:30–12:45 | Keynote: David Schlangen | 
+| 12:45–13:00 | Closing |
