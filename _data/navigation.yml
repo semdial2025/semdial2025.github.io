@@ -7,8 +7,8 @@ main:
     url: /keynotes/
   - title: "Important Dates"
     url: /important-dates/
-  #- title: "Registration"
-  #  url: /registration/
+  - title: "Registration"
+    url: /registration/
   - title: "Venue"
     url: /vta/
   - title: "Contact"
