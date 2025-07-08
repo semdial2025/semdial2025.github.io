@@ -29,4 +29,5 @@ toc: false
 
 <img src="https://www.ling.uni-potsdam.de/~das/DSchlangen_Portrait_2019_klein.jpg" width="150" alt="Photo of David Schlangen" />
 
-* Title + Abstract: tba
+* Title: Meaningful Interaction with Unreal Speakers?
+* Abstract: tba
