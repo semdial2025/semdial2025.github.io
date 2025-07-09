@@ -40,3 +40,26 @@ toc: true
 | 11:30–12:45 | Keynote: David Schlangen | 
 | 12:45–13:00 | Closing |
 
+
+## Accepted Papers
+
+* **Benchmarking LLMs for Mimicking Child-Caregiver Language in Interaction** (Jing Liu, Abdellah Fourtassi)
+* **Alexa, You are too Slow! Invariant Turn-Transition Times and Conversational Flow in Natural Human–Voice Agent Interaction** (Mathias Barthel)
+* **Grammatical Person as a Clue to Interpreting French How-Questions** (Jan Fliessbach, Lucia M. Tovena, Damien Fleury)
+* **Why so Cold and Distant? Effects of Inter-Turn Gap Durations on Observers' Attributions of Interpersonal Stance** (Stefan Blohm, Mathias Barthel)
+* **Information Exchange vs. Opinion Discussion as Distinct Communicative Contexts in Online Conversations: A Corpus-Based Study of Speech Acts and Rhetorical Relations Dynamics in Dialogue**
+(Gonzalo Freijedo Aduna, Alda Mari)
+* **Identifying Repair Opportunities in Child-Caregiver Interactions**
+(Abhishek Agrawal, Benoit Favre, Abdellah Fourtassi)
+* **Shaping Virtual Interactions: F-Formations in Social VR**
+(Karl Clarke, Patrick Healey)
+* **Do Young Adolescents Draw On Common Ground Like Adults?** (Clara Gregoire, Rauzy Stéphane Retournard Héloïse, Maud Champagne-Lavau)
+* **Social Repair** (Alafate Abulimiti, Vladislav Maraev)
+* **Does It Take Two to Do an Articulatory Tango? Investigating the Production of Novel Phonetic Forms in Varying Communicative Settings** (Leonie Schade, Daniel Duran, Sina Zarrieß, Joana Cholin, Petra Wagner)
+* **Head and Hand Movements During Turn Transitions: Data-Based Multimodal Analysis Using the Frankfurt Vr Gesture–Speech Alignment Corpus (FraGA)** (Andy Lücking, Felix Voll, Daniel Rott, Alexander Henlein, Alexander Mehler)
+* **Conv-BDI: An Extension of the BDI Framework for Conversational Agents** (Nicholas Thomas Walker, Nicolas Wagner, Laetitia Hilgendorf, Stefan Ultes)
+* **Seeking Agreement in Remote Psychiatric Consultations: A Conversation Analytic Perspective** (Naphat Jittavisutthikul, Patrick Healey, Sarah Bourdin, Philip McNamee)
+* **Misunderstanding the Concrete, Disagreeing about the Abstract: A Closer Look at Word Meaning Negotiation Triggers** (Bill Noble, Staffan Larsson, Jenny Myrendal)
+* **Constructing a Multi-Party Conversational Corpus Focusing on Interlocutor Relationships** (Taro Tsuda, Sanae Yamashita, Koji Inoue, Tatsuya Kawahara, Ryuichiro Higashinaka)
+* **Automated Administration of Questionnaires during Casual Conversation using Question-Guiding Dialogue System** (Yuki Zenimoto, Mariko Yoshida, Ryo Hori, Mayu Urata, Aiko Inoue, Takahiro Hayashi, Ryuichiro )Higashinaka
+* **‘No No No No No No No’: Multiple Repetition in Dialogue** (Zulipiye Yusupujiang, Paola Herreno-Castaneda, Mathilde Dargnat, Jonathan Ginzburg)
