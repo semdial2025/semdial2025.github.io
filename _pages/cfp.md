@@ -74,8 +74,8 @@ Submissions should meet the following requirements:
 | Reviews due                 | ~~June 30, 2025~~   |
 | Notification (long)         | ~~July 04, 2025~~   |
 | Camera Ready (long)         | July 18, 2025       |
-| Short Paper/Poster Deadline | July 18, 2025       |
-| Notification (short)        | July 25, 2025       |
-| Camera Ready (short/posters)| August 9, 2025      |
+| **Short Paper (Poster) Deadline** | **July 18, 2025** |
+| Notification (short papers) | July 25, 2025       |
+| Camera Ready (short papers) | August 9, 2025      |
 | Registration Deadline       | August 15, 2025     |
 | Bialogue 2025               | September 3–5, 2025 |
