@@ -22,9 +22,9 @@ layout: single
 | Long Paper Deadline         | ~~June 2, 2025~~    |
 | Reviews due to              | ~~June 30, 2025~~   |
 | Notification                | ~~July 4, 2025~~    |
-| Camera Ready (Long Paper)   | July 18, 2025       |
-| **Short Paper/Poster Deadline** | **July 18, 2025**       |
-| Notification                | July 25, 2025       |
-| Camera Ready (Posters)      | August 09, 2025     |
+| Camera Ready (Long Papers)  | July 18, 2025       |
+| **Short Paper (Poster) Deadline** | **July 18, 2025**       |
+| Notification (Short Papers) | July 25, 2025       |
+| Camera Ready (Short Papers) | August 09, 2025     |
 | Registration Deadline       | August 15, 2025     |
 | Bialogue Workshop           | September 3–5, 2025 |
