@@ -60,7 +60,7 @@ Submissions should meet the following requirements:
 
 * At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
 
-**Submission**: Please submit you paper via [Open Review](https://openreview.net/group?id=SemDial.org/2025/Bialogue)
+**Submission**: Please submit your paper via [Open Review](https://openreview.net/group?id=SemDial.org/2025/Bialogue)
 
 
 ## Important Dates
@@ -69,11 +69,11 @@ Submissions should meet the following requirements:
 
 |                             |                     | 
 | --------------------------- | ------------------- |
-| Submission opens            | March 1, 2025       |
-| Long Paper Deadline         | ~~May 16, 2025~~ June 2, 2025        |
-| Reviews due                 | June 30, 2025        |
-| Notification (long)         | July 04, 2025       |
-| Camera Ready (long)         | July 18, 2025        |
+| Submission opens            | ~~March 1, 2025~~   |
+| Long Paper Deadline         | ~~June 2, 2025~~    |
+| Reviews due                 | ~~June 30, 2025~~   |
+| Notification (long)         | ~~July 04, 2025~~   |
+| Camera Ready (long)         | July 18, 2025       |
 | Short Paper/Poster Deadline | July 18, 2025       |
 | Notification (short)        | July 25, 2025       |
 | Camera Ready (short/posters)| August 9, 2025      |
