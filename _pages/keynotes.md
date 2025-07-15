@@ -15,7 +15,7 @@ toc: false
 
 <img src="https://www.abdn.ac.uk/img/200x200/staffpages/uploads/s03as2/avatar/4A9pvt3VGgw8mLYGK8KFtwlTjkA0DXzGJ63snvy2.jpeg" width="150" alt="Photo of Arabella Sinclair" />
 
-* Title: Repetition as coordination in asymmetric dialogue
+* Title: Repetition as Coordination in Asymmetric Dialogue
 * Abstract: tba
 
 
