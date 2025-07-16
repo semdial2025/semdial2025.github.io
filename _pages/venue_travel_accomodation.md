@@ -13,9 +13,10 @@ Bialogue will take place at Bielefeld University, Bielefeld, Germany
 
 
 # Travel to Venue
-When using the tram or bus, we recommend getting a ["Entdecker-Karte"](https://www.bielefeld.jetzt/entdeckerkarte) at one of the tram station ticket machines.
 
 ## By Public Transport (from the city center) 
+When using the tram or bus, we recommend getting a ["Entdecker-Karte"](https://www.bielefeld.jetzt/entdeckerkarte) at one of the tram station ticket machines.
+
 **By Tram:** From the city center (Tram stop *Jahnplatz*, *Hauptbahnhof* or *Rathaus* take tram line 4 towards *Lohmannshof* or *Universität* and get off at the stop *Universität* (travel time: 7 minutes) <br>
 **By Bus:**
 
