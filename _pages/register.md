@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
 toc: false
 ---
-Registration will open soon. There will be no early bird registration, but a student fee.
+Registration will open soon. There will be no early bird registration.
 <!---Register online via [Bialogue EventBright Registration Page]() <br>
 To ensure your paper is presented in the main SemDial sessions, at least one author must complete registration by ?. For other attendees, onsite registration is also required by ?.--->
 
