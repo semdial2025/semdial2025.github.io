@@ -58,10 +58,11 @@ Submissions should meet the following requirements:
 
 **Short papers (Posters)**: 
 
+<span style="color:red">Attention: updated instruction</span>
+
 * At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
 * Accepted short papers will be presented as posters at the conference.
 * (optional) unlimited extra space after the conclusion for limitations and optionally ethical considerations, 
-* unlimited pages of references,
 * (optional) unlimited pages for appendices (but please be selective).
 
 **Submission**: Please submit your paper via [Open Review](https://openreview.net/group?id=SemDial.org/2025/Bialogue)
