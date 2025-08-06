@@ -8,7 +8,7 @@ toc: true
 # Venue
 Bialogue will take place at Bielefeld University, Bielefeld, Germany, specifically the lecture hall of the CITEC building. The address is **Inspiration 1, 33619 Bielefeld**.
 
-<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.488491475582125%2C52.04434171816361%2C8.49610894918442%2C52.04642028744648&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/52.045381/8.492300&amp;layers=N">View larger map</a></small>
+<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.488590717315676%2C52.04437636177715%2C8.49620819091797%2C52.04645492944881&amp;layer=mapnik&amp;marker=52.04541565769711%2C8.492399454116821" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.045416&amp;mlon=8.492399#map=19/52.045416/8.492399&amp;layers=N">View larger map</a></small>
 
 The venue is wheelchair-accessible. Appropriate seating is available, as well as a lift for presenters who use a wheelchair to get to the front of the auditorium. Wheelchair-accessible all-gender toilets are also available on-site. The university also provides an [app](https://www.uni-bielefeld.de/einrichtungen/zab/unimaps/ 'Website with info and download links') called UniMaps for accessibility-friendly navigation on campus.
 
