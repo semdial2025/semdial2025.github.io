@@ -34,11 +34,10 @@ There are numerous free parking spaces available on campus. Parking spaces for p
 
 **From the South:** Take the A2 motorway. At the Bielefeld junction, switch to the A33 towards Bi-Zentrum. Exit at Bi-Zentrum and continue towards the city center on Ostwestfalendamm (B61). Take the Universität exit and follow the route via Stapenhorststr. and Kurt-Schumacher-Str. (signposted).
 
-
 # Travelling to Bielefeld by plane
 Nearest bigger international airports are [Düsseldorf](https://www.dus.com/ 'Düsseldorf airport website') and [Hanover](https://www.hannover-airport.de/en/information-for-passengers-visitors/ 'Hanover airport website'). There are also smaller airports in [Paderborn](https://www.airport-pad.com/en/flights-journey/flight-information/ 'Paderborn airport website'), [Dortmund](https://www.dortmund-airport.com/ 'Dortmund airport website') and [Köln/Bonn](https://www.cologne-bonn-airport.com/en/ 'Köln Bonn airport website').
 
-# Accomodations
+# Accommodations
 There are hotel contigents for attendees of Bialogue. 
 
 <div class="row">
@@ -117,6 +116,11 @@ There are hotel contigents for attendees of Bialogue.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vKoDnb46CTiby6mv5ZRR15HYhIIuUyk&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
+# Conference dinner venue
+
+The conference dinner will take place at the restaurant called [Numa](https://numa.de/ 'Link to restaurant website'). The address is Obernstraße 26, it is located in the city centre. From the conference venue, it can be accessed by taking the tram line number 4 in the direction of _Stieghorst_ and exiting at the stop _Rathaus_.
+
+<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.525814414024355%2C52.01911569175116%2C8.53343188762665%2C52.0211954340539&amp;layer=mapnik&amp;marker=52.02015530002795%2C8.529621899999938" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.020155&amp;mlon=8.529622#map=19/52.020155/8.529622&amp;layers=N">View larger map</a></small>
 
 # What to do in Bielefeld
 
