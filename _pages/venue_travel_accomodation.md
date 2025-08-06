@@ -8,7 +8,7 @@ toc: true
 # Venue
 Bialogue will take place at Bielefeld University, Bielefeld, Germany
 
-<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.45329284667969%2C52.02574907179075%2C8.53569030761719%2C52.05069589741691&amp;layer=mapnik&amp;marker=52.03822422482893%2C8.494491577148438" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.03822&amp;mlon=8.49449#map=15/52.03822/8.49449">View Larger Map</a></small>
+<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.488255441188814%2C52.04437636177715%2C8.495872914791109%2C52.04645492944881&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/52.045416/8.492064">View Larger Map</a></small>
 
 
 
@@ -17,11 +17,10 @@ Bialogue will take place at Bielefeld University, Bielefeld, Germany
 ## By Public Transport (from the city center) 
 When using the tram or bus, we recommend getting a ["Entdecker-Karte"](https://www.bielefeld.jetzt/entdeckerkarte) at one of the tram station ticket machines.
 
-**By Tram:** From the city center (Tram stop *Jahnplatz*, *Hauptbahnhof* or *Rathaus* take tram line 4 towards *Lohmannshof* or *Universität* and get off at the stop *Universität* (travel time: 7 minutes) <br>
-**By Bus:**
+**By Tram:** From the city center (Tram stop *Jahnplatz*, *Hauptbahnhof* or *Rathaus* take tram line 4 towards *Lohmannshof* and get off at the stop *Wellensiek* (travel time: around 10 minutes). Trams in Bielefeld are mostly wheelchair-accessible (for wheelchairs under 350 kg). So are the stops mentioned above. Further information on accessibility of public transport in Bielefeld can be found [here](https://www.mobiel.de/fahrplaene/barrierefrei-unterwegs/ 'Website of the public transportation company') (in German). <br>
 
 ## By Car
-There are numerous free parking spaces available on campus.
+There are numerous free parking spaces available on campus. Parking spaces for people with disabilities are available directly at the venue.
 
 **From the North:** Take the A2 motorway, exit at Bi-Ost, and follow Detmolder Str. towards the city center (6 km, approximately 10 minutes). Follow the route via Kreuzstr., Oberntorwall, Stapenhorststr., and Kurt-Schumacher-Str. (signposted).
 
@@ -29,6 +28,7 @@ There are numerous free parking spaces available on campus.
 
 
 # Travelling to Bielefeld by plane
+Nearest bigger international airports are [Düsseldorf](https://www.dus.com/ 'Düsseldorf airport website') and [Hanover](https://www.hannover-airport.de/en/information-for-passengers-visitors/ 'Hanover airport website'). There are also smaller airports in [Paderborn](https://www.airport-pad.com/en/flights-journey/flight-information/ 'Paderborn airport website'), [Dortmund](https://www.dortmund-airport.com/ 'Dortmund airport website') and [Köln/Bonn](https://www.cologne-bonn-airport.com/en/ 'Köln Bonn airport website').
 
 # Accomodations
 There are hotel contigents for attendees of Bialogue. 
