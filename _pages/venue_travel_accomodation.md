@@ -6,11 +6,19 @@ toc: true
 ---
 
 # Venue
-Bialogue will take place at Bielefeld University, Bielefeld, Germany
+Bialogue will take place at Bielefeld University, Bielefeld, Germany, specifically the lecture hall of the CITEC building. The address is **Inspiration 1, 33619 Bielefeld**.
 
-<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.488255441188814%2C52.04437636177715%2C8.495872914791109%2C52.04645492944881&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/52.045416/8.492064">View Larger Map</a></small>
+<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.488250076770784%2C52.044379661167504%2C8.49586755037308%2C52.04645822868573&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/52.045419/8.492059">View larger map</a></small>
 
+The venue is wheelchair-accessible. Appropriate seating is available, as well as a lift for presenters who use a wheelchair to get to the front of the auditorium. Wheelchair-accessible all-gender toilets are also available on-site. The university also provides an [app](https://www.uni-bielefeld.de/einrichtungen/zab/unimaps/ 'Website with info and download links') called UniMaps for accessibility-friendly navigation on campus.
 
+The university canteen where lunches will take place is located in another building on the campus that is also wheelchair-accessible. There is an option to use a button at the entrance to call an employee of the canteen in case assistance during the visit is desired, for instance, with carrying the tray.
+
+It is possible to have a mobile inductive listening system during the event.
+
+There is a quiet room on-site that can be used for a variety of purposes including breast-feeding. Babies are welcome at Bialogue!
+
+If you have any access requirements you would like us to be aware of, please, let us know in the registration form.
 
 # Travel to Venue
 
