@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /register/
-title: "Register"
+title: "Participation"
 header:
   overlay_image: /assets/Uni_Bielefeld.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
@@ -10,6 +10,9 @@ header:
   caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
 toc: false
 ---
+
+## Registration
+
 The registration for Semdial 2025 is now open! We sincerely apologise for the delay.
 Please, use [this form](https://efemva69.forms.app/registration-semdial 'Registration form') to register.
 
@@ -30,3 +33,9 @@ This amounts to the final fee of **242€** (incl. taxes) for the option with th
 ### Payment procedure
 
 Once you have submitted your registration form, you will receive an invoice from us with further instructions for payment, sent to the e-mail address you will have given in the registration form. The payment is only possible via **bank transfer**, however, we can cover the transfer fees for attendees who reside in countries outside of SEPA. In order to match the payments to attendees, there is a personalised intended purpose of transfer for everyone that includes the invoice number, therefore, we do not provide generalised payment information here.
+
+
+## Information for Presenters
+
+- Oral presentations: Plan your oral presentations for 20 minutes (plus 10 minutes discussion), you can either present from your own device or bring an online presentation (short link) or a PDF file on a thumb drive.
+- Posters: Bring a printed poster up to [ISO A0](https://en.wikipedia.org/wiki/ISO_216) in paper size (841 × 1189 mm; portrait or landscape orientation is acceptable).
