@@ -69,4 +69,34 @@ toc: true
 * **Seeking Agreement in Remote Psychiatric Consultations: A Conversation Analytic Perspective** (Naphat Jittavisutthikul, Patrick Healey, Sarah Bourdin, Philip McNamee)
 * **Constructing a Multi-Party Conversational Corpus Focusing on Interlocutor Relationships** (Taro Tsuda, Sanae Yamashita, Koji Inoue, Tatsuya Kawahara, Ryuichiro Higashinaka)
 
+## Poster Session 1
+* **Pragmatic Reasoning for Irony Detection with Large Language Models in English and Norwegian** (Margareta Berg, Ildikó Pilán, Ingrid Lossius Falkum, Pierre Lison)
+* **"It's simply a different way of communicating" - Attitudes on Nonverbal Communication of Autistic Adults in the Netherlands** (Anna Palmann, James P. Trujillo, Linda Drijvers, Floris Roelofsen)
+* **Are you laughing at me? Patterns of laughter while playing a voice activated game in pairs compared to single-player** (Talha Bedir, Bora Kara, Christine Howes)
+* **Toward Emotional Description via Meta-Dialogue: A Preliminary Framework for Data Collection** (Kei shimonishi, Koji Inoue, Yasuyuki Usuda, Rui Sakaida)
+* **Child-directed speech is fine-tuned to children's developmental needs** (Bastian Bunzeck, Holger Diessel)
+* **Surprised to kill: quantifying LLM uncertainty in morally-charged triadic dialogues** (Vanessa Vanzan, Nikolai Ilinykh, Simon Dobnik, Christine Howes)
+* **Communication at an angle** (Mattias Appelgren, Ellen Breitholtz, Robin Cooper, Simon Dobnik)
+* **How Task Complexity and Voice Type Shape Prosodic and Physiologic Cues of Engagement in Human-Machine Dialogue** (Océane Granier, Laurent Prevot, Roxane Bertrand, Kévin Gravouil)
+* **The FLEX Benchmark: Evaluating Pragmatic Competence in LLMs via False Presuppositions** (Judith Sieker, Clara Lachenmaier, Sina Zarrieß)
+* **One '-hii' to rule them all: Functions and intonation of particle '-hii' in Hindi movie dialogues** (Shravani Patil, Farhat Jabeen)
+* **Integrating LLMs into the DIARC Cognitive Architecture to Resolve Past Temporal References** (Valerio Farriciello, Frank Förster)
+
+## Poster Session 2
+* **Across the board: Human-human game learning dialogues** (Mattias Appelgren, Erik Lagerstedt, Christine Howes, Asad B. Sayeed )
+* **The Dual Nature as a Local Context to Explore Verbal Behaviour in Game Explanations** (Josephine Beryl Fisher, Lutz Terfloth)
+* **Towards a discourse-structure based response classification for interviews** (René Nicolas, Arndt Riester)
+* **Contextual Interpretation in Human-Robot Dialogue** (Svetlana Stoyanchev, Youmna Farag, Simon Keizer, Mohan Li, Rama Doddipatla)
+* **Intonation and prosodic phrasing of particle '-hii' in Hindi/Urdu dialogues** (Farhat Jabeen, Shravani Patil )
+* **Mapping the Landscape of Dialogue Research: A Meta-Analysis of ACL Anthology 2024** (Amandine Decker, Ellen Breitholtz, Maxime Amblard )
+* **Evaluating prosodic variation in English and Icelandic synthesized speech** (Caitlin Laura Richter, Naizeth Núñez Macías, Stefán Ólafsson, Jon Gudnason, Hannes Högni Vilhjálmsson )
+* **Conceptual Pact Models of Reference in Building Games with Dialogue: Scaling up from Pentomino Puzzles to the challenge of Minecraft** (Julian Hough, Chris Madge, Matthew Purver, Massimo Poesio )
+* **MLLMs Construction Company - Investigating Multimodal LLMs'** Communicative Skills In a Collaborative Building Task (Marika Sarzotti, Giovanni Duca, Chris Madge, Raffaella Bernardi, Massimo Poesio )
+* **“Hepeating” and Discursive Harm** (Yuna Won)
+* **Learning to Refer: How Scene Complexity Affects Emergent Communication in Neural Agents** (Dominik Künkele, Simon Dobnik )
+
+
+
+
+
 
