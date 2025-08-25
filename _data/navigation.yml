@@ -1,16 +1,16 @@
 main:
-  - title: "Call for Paper"
-    url: /cfp/
   - title: "Program"
     url: /program/
   - title: "Keynotes"
     url: /keynotes/
-  - title: "Important Dates"
-    url: /important-dates/
   - title: "Participation"
     url: /register/
   - title: "Venue"
     url: /vta/
+  - title: "Important Dates"
+    url: /important-dates/
+  - title: "Call for Paper"
+    url: /cfp/
   - title: "Contact"
     url: /contact/
   - title: "Impressum"
