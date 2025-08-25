@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /program/
-title: "Program"
+title: "Programme"
 header:
   overlay_image: /assets/Uni_Bielefeld.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
@@ -18,85 +18,78 @@ toc: true
 | 09:00–09:15 | Welcome |
 | 09:15–10:30 | Keynote: Arabella Sinclair |
 | 10:30–10:50 | Coffee Break |
-| 10:50–12:20 | Session 1 - Studies: Naturalistic Dialogue|
+| 10:50–12:20 | [Session 1 - Studies: Naturalistic Dialogue](#session-1---studies-naturalistic-dialogue) |
 | 12:20–13:40 | Lunch Break |
-| 13:40–15:40 | Session 2 - Grounding and Repair |
+| 13:40–15:40 | [Session 2 - Grounding and Repair](#session-2---grounding-and-repair) |
 | 15:40–16:00 | Coffee Break |
-| 16:00–17:30 | Poster Session 1 |
+| 16:00–17:30 | [Poster Session 1](#poster-session-1) |
 | 17:30–18:30 | Welcome Reception |
 | **Thu, Sep. 4** | |
 | 08:30–09:00 | Registration |
-| 09:00–10:30 | Session 3 - Language Models and Dialog Systems |
+| 09:00–10:30 | [Session 3 - Language Models and Dialog Systems](#session-3---language-models-and-dialog-systems) |
 | 10:30–11:00 | Coffee Break |
-| 11:00–12:30 | Session 4 - Turn-Taking |
+| 11:00–12:30 | [Session 4 - Turn-Taking](#session-4---turn-taking) |
 | 12:30–14:00 | Lunch Break |
-| 14:00–15:30 | Poster Session 2 |
+| 14:00–15:30 | [Poster Session 2](#poster-session-2) |
 | 15:30–16:00 | Coffee Break |
 | 16:00–17:15 | Keynote: Robert Hawkins |
 | 18:30–      | Conference Dinner |
 | **Fri, Sep. 5** | |
-| 09:00–11:00 | Session 5 - Studies: Mediated Dialogue| 
+| 09:00–11:00 | [Session 5 - Studies: Mediated Dialogue] (#session-5---studies-mediated-dialogue) | 
 | 11:00–11:30 | Coffee Break| 
 | 11:30–12:45 | Keynote: David Schlangen | 
 | 12:45–13:00 | Closing |
 
 
 ## Session 1 - Studies: Naturalistic Dialogue
-* **Grammatical Person as a Clue to Interpreting French How-Questions** (Jan Fliessbach, Lucia M. Tovena, Damien Fleury)
-* **Does It Take Two to Do an Articulatory Tango? Investigating the Production of Novel Phonetic Forms in Varying Communicative Settings** (Leonie Schade, Daniel Duran, Sina Zarrieß, Joana Cholin, Petra Wagner)
-* **‘No No No No No No No’: Multiple Repetition in Dialogue** (Zulipiye Yusupujiang, Paola Herreno-Castaneda, Mathilde Dargnat, Jonathan Ginzburg)
-
+* **Grammatical person as a clue to interpreting french how-questions** (Jan Fliessbach, Lucia M. Tovena, Damien Fleury)
+* **Does it take two to do an articulatory tango? Investigating the production of novel phonetic forms in varying communicative settings** (Leonie Schade, Daniel Duran, Sina Zarrieß, Joana Cholin, Petra Wagner)
+* **‘No no no no no no no’: Multiple repetition in dialogue** (Zulipiye Yusupujiang, Paola Herreno-Castaneda, Mathilde Dargnat, Jonathan Ginzburg)
 
 ## Session 2 - Grounding and Repair
-* **Identifying Repair Opportunities in Child-Caregiver Interactions** (Abhishek Agrawal, Benoit Favre, Abdellah Fourtassi)
-* **Do Young Adolescents Draw On Common Ground Like Adults?** (Clara Gregoire, Rauzy Stéphane Retournard Héloïse, Maud Champagne-Lavau)
-* **Social Repair** (Alafate Abulimiti, Vladislav Maraev)
-* **Misunderstanding the Concrete, Disagreeing about the Abstract: A Closer Look at Word Meaning Negotiation Triggers** (Bill Noble, Staffan Larsson, Jenny Myrendal)
+* **Identifying repair opportunities in child-caregiver interactions** (Abhishek Agrawal, Benoit Favre, Abdellah Fourtassi)
+* **Do young adolescents draw on common ground like adults?** (Clara Gregoire, Rauzy Stéphane Retournard Héloïse, Maud Champagne-Lavau)
+* **Social repair** (Alafate Abulimiti, Vladislav Maraev)
+* **Misunderstanding the concrete, disagreeing about the abstract: A closer look at word meaning negotiation triggers** (Bill Noble, Staffan Larsson, Jenny Myrendal)
 
 ## Session 3 - Language Models and Dialog Systems 
-* **Benchmarking LLMs for Mimicking Child-Caregiver Language in Interaction** (Jing Liu, Abdellah Fourtassi)
-* **Conv-BDI: An Extension of the BDI Framework for Conversational Agents** (Nicholas Thomas Walker, Nicolas Wagner, Laetitia Hilgendorf, Stefan Ultes)
-* **Automated Administration of Questionnaires during Casual Conversation using Question-Guiding Dialogue System** (Yuki Zenimoto, Mariko Yoshida, Ryo Hori, Mayu Urata, Aiko Inoue, Takahiro Hayashi, Ryuichiro Higashinaka)
+* **Benchmarking LLMs for mimicking child-caregiver language in interaction** (Jing Liu, Abdellah Fourtassi)
+* **Conv-BDI: An extension of the BDI framework for conversational agents** (Nicholas Thomas Walker, Nicolas Wagner, Laetitia Hilgendorf, Stefan Ultes)
+* **Automated administration of questionnaires during casual conversation using question-guiding dialogue system** (Yuki Zenimoto, Mariko Yoshida, Ryo Hori, Mayu Urata, Aiko Inoue, Takahiro Hayashi, Ryuichiro Higashinaka)
 
 ## Session 4 - Turn-Taking 
-* **Alexa, You are too Slow! Invariant Turn-Transition Times and Conversational Flow in Natural Human–Voice Agent Interaction** (Mathias Barthel)
-* **Why so Cold and Distant? Effects of Inter-Turn Gap Durations on Observers' Attributions of Interpersonal Stance** (Stefan Blohm, Mathias Barthel)
-* **Head and Hand Movements During Turn Transitions: Data-Based Multimodal Analysis Using the Frankfurt Vr Gesture–Speech Alignment Corpus (FraGA)** (Andy Lücking, Felix Voll, Daniel Rott, Alexander Henlein, Alexander Mehler)
+* **Alexa, you are too slow! Invariant turn-transition times and conversational flow in natural human–voice agent interaction** (Mathias Barthel)
+* **Why so cold and distant? Effects of inter-turn gap durations on observers' attributions of interpersonal stance** (Stefan Blohm, Mathias Barthel)
+* **Head and hand movements during turn transitions: Data-based multimodal analysis using the frankfurt vr gesture–speech alignment corpus (FraGA)** (Andy Lücking, Felix Voll, Daniel Rott, Alexander Henlein, Alexander Mehler)
 
 ## Session 5 - Studies: Mediated Dialogue
-* **Information Exchange vs. Opinion Discussion as Distinct Communicative Contexts in Online Conversations: A Corpus-Based Study of Speech Acts and Rhetorical Relations Dynamics in Dialogue** (Gonzalo Freijedo Aduna, Alda Mari)
-* **Shaping Virtual Interactions: F-Formations in Social VR** (Karl Clarke, Patrick Healey)
-* **Seeking Agreement in Remote Psychiatric Consultations: A Conversation Analytic Perspective** (Naphat Jittavisutthikul, Patrick Healey, Sarah Bourdin, Philip McNamee)
-* **Constructing a Multi-Party Conversational Corpus Focusing on Interlocutor Relationships** (Taro Tsuda, Sanae Yamashita, Koji Inoue, Tatsuya Kawahara, Ryuichiro Higashinaka)
+* **Information exchange vs. opinion discussion as distinct communicative contexts in online conversations: A corpus-based study of speech acts and rhetorical relations dynamics in dialogue** (Gonzalo Freijedo Aduna, Alda Mari)
+* **Shaping virtual interactions: F-formations in social VR** (Karl Clarke, Patrick Healey)
+* **Seeking agreement in remote psychiatric consultations: A conversation analytic perspective** (Naphat Jittavisutthikul, Patrick Healey, Sarah Bourdin, Philip McNamee)
+* **Constructing a multi-party conversational corpus focusing on interlocutor relationships** (Taro Tsuda, Sanae Yamashita, Koji Inoue, Tatsuya Kawahara, Ryuichiro Higashinaka)
 
 ## Poster Session 1
-* **Pragmatic Reasoning for Irony Detection with Large Language Models in English and Norwegian** (Margareta Berg, Ildikó Pilán, Ingrid Lossius Falkum, Pierre Lison)
-* **"It's simply a different way of communicating" - Attitudes on Nonverbal Communication of Autistic Adults in the Netherlands** (Anna Palmann, James P. Trujillo, Linda Drijvers, Floris Roelofsen)
+* **Pragmatic reasoning for irony detection with large language models in English and Norwegian** (Margareta Berg, Ildikó Pilán, Ingrid Lossius Falkum, Pierre Lison)
+* **“It's simply a different way of communicating” – Attitudes on nonverbal communication of autistic adults in the Netherlands** (Anna Palmann, James P. Trujillo, Linda Drijvers, Floris Roelofsen)
 * **Are you laughing at me? Patterns of laughter while playing a voice activated game in pairs compared to single-player** (Talha Bedir, Bora Kara, Christine Howes)
-* **Toward Emotional Description via Meta-Dialogue: A Preliminary Framework for Data Collection** (Kei shimonishi, Koji Inoue, Yasuyuki Usuda, Rui Sakaida)
+* **Toward emotional description via meta-dialogue: A preliminary framework for data collection** (Kei Shimonishi, Koji Inoue, Yasuyuki Usuda, Rui Sakaida)
 * **Child-directed speech is fine-tuned to children's developmental needs** (Bastian Bunzeck, Holger Diessel)
-* **Surprised to kill: quantifying LLM uncertainty in morally-charged triadic dialogues** (Vanessa Vanzan, Nikolai Ilinykh, Simon Dobnik, Christine Howes)
+* **Surprised to kill: Quantifying LLM uncertainty in morally-charged triadic dialogues** (Vanessa Vanzan, Nikolai Ilinykh, Simon Dobnik, Christine Howes)
 * **Communication at an angle** (Mattias Appelgren, Ellen Breitholtz, Robin Cooper, Simon Dobnik)
-* **How Task Complexity and Voice Type Shape Prosodic and Physiologic Cues of Engagement in Human-Machine Dialogue** (Océane Granier, Laurent Prevot, Roxane Bertrand, Kévin Gravouil)
-* **The FLEX Benchmark: Evaluating Pragmatic Competence in LLMs via False Presuppositions** (Judith Sieker, Clara Lachenmaier, Sina Zarrieß)
+* **How task complexity and voice type shape prosodic and physiologic cues of engagement in human-machine dialogue** (Océane Granier, Laurent Prevot, Roxane Bertrand, Kévin Gravouil)
+* **The FLEX benchmark: Evaluating pragmatic competence in LLMs via false presuppositions** (Judith Sieker, Clara Lachenmaier, Sina Zarrieß)
 * **One '-hii' to rule them all: Functions and intonation of particle '-hii' in Hindi movie dialogues** (Shravani Patil, Farhat Jabeen)
-* **Integrating LLMs into the DIARC Cognitive Architecture to Resolve Past Temporal References** (Valerio Farriciello, Frank Förster)
+* **Integrating LLMs into the DIARC cognitive architecture to resolve past temporal references** (Valerio Farriciello, Frank Förster)
 
 ## Poster Session 2
-* **Across the board: Human-human game learning dialogues** (Mattias Appelgren, Erik Lagerstedt, Christine Howes, Asad B. Sayeed )
-* **The Dual Nature as a Local Context to Explore Verbal Behaviour in Game Explanations** (Josephine Beryl Fisher, Lutz Terfloth)
+* **Across the board: Human-human game learning dialogues** (Mattias Appelgren, Erik Lagerstedt, Christine Howes, Asad B. Sayeed)
+* **The dual nature as a local context to explore verbal behaviour in game explanations** (Josephine Beryl Fisher, Lutz Terfloth)
 * **Towards a discourse-structure based response classification for interviews** (René Nicolas, Arndt Riester)
-* **Contextual Interpretation in Human-Robot Dialogue** (Svetlana Stoyanchev, Youmna Farag, Simon Keizer, Mohan Li, Rama Doddipatla)
-* **Intonation and prosodic phrasing of particle '-hii' in Hindi/Urdu dialogues** (Farhat Jabeen, Shravani Patil )
-* **Mapping the Landscape of Dialogue Research: A Meta-Analysis of ACL Anthology 2024** (Amandine Decker, Ellen Breitholtz, Maxime Amblard )
-* **Evaluating prosodic variation in English and Icelandic synthesized speech** (Caitlin Laura Richter, Naizeth Núñez Macías, Stefán Ólafsson, Jon Gudnason, Hannes Högni Vilhjálmsson )
-* **Conceptual Pact Models of Reference in Building Games with Dialogue: Scaling up from Pentomino Puzzles to the challenge of Minecraft** (Julian Hough, Chris Madge, Matthew Purver, Massimo Poesio )
-* **MLLMs Construction Company - Investigating Multimodal LLMs'** Communicative Skills In a Collaborative Building Task (Marika Sarzotti, Giovanni Duca, Chris Madge, Raffaella Bernardi, Massimo Poesio )
-* **“Hepeating” and Discursive Harm** (Yuna Won)
-* **Learning to Refer: How Scene Complexity Affects Emergent Communication in Neural Agents** (Dominik Künkele, Simon Dobnik )
-
-
-
-
-
-
+* **Contextual interpretation in human-robot dialogue** (Svetlana Stoyanchev, Youmna Farag, Simon Keizer, Mohan Li, Rama Doddipatla)
+* **Intonation and prosodic phrasing of particle '-hii' in Hindi/Urdu dialogues** (Farhat Jabeen, Shravani Patil)
+* **Mapping the landscape of dialogue research: A meta-analysis of ACL Anthology 2024** (Amandine Decker, Ellen Breitholtz, Maxime Amblard)
+* **Evaluating prosodic variation in English and Icelandic synthesized speech** (Caitlin Laura Richter, Naizeth Núñez Macías, Stefán Ólafsson, Jon Gudnason, Hannes Högni Vilhjálmsson)
+* **Conceptual pact models of reference in building games with dialogue: Scaling up from Pentomino Puzzles to the challenge of Minecraft** (Julian Hough, Chris Madge, Matthew Purver, Massimo Poesio)
+* **MLLMs construction company – investigating multimodal LLMs'** Communicative Skills In a Collaborative Building Task (Marika Sarzotti, Giovanni Duca, Chris Madge, Raffaella Bernardi, Massimo Poesio)
+* **“Hepeating” and discursive harm** (Yuna Won)
+* **Learning to refer: How scene complexity affects emergent communication in neural agents** (Dominik Künkele, Simon Dobnik)
