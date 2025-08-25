@@ -14,7 +14,7 @@ toc: false
 ## Registration
 
 ~~The registration for Semdial 2025 is now open! 
-Please, use [this form](https://efemva69.forms.app/registration-semdial 'Registration form') to register.~~ 
+Please, use this form to register.~~ 
 Registration is now closed.
 
 To ensure your paper is presented in the main Semdial sessions, at least one author must complete the registration.
