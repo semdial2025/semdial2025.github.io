@@ -58,8 +58,8 @@ toc: true
 * **Automated administration of questionnaires during casual conversation using question-guiding dialogue system** (Yuki Zenimoto, Mariko Yoshida, Ryo Hori, Mayu Urata, Aiko Inoue, Takahiro Hayashi, Ryuichiro Higashinaka)
 
 ## Session 4 - Turn-Taking 
-* **Alexa, you are too slow! Invariant turn-transition times and conversational flow in natural human–voice agent interaction** (Mathias Barthel)
 * **Why so cold and distant? Effects of inter-turn gap durations on observers' attributions of interpersonal stance** (Stefan Blohm, Mathias Barthel)
+* **Alexa, you are too slow! Invariant turn-transition times and conversational flow in natural human–voice agent interaction** (Mathias Barthel)
 * **Head and hand movements during turn transitions: Data-based multimodal analysis using the frankfurt vr gesture–speech alignment corpus (FraGA)** (Andy Lücking, Felix Voll, Daniel Rott, Alexander Henlein, Alexander Mehler)
 
 ## Session 5 - Studies: Mediated Dialogue
