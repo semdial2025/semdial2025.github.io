@@ -42,7 +42,7 @@ toc: true
 
 
 ## Session 1 - Studies: Naturalistic Dialogue
-* **Grammatical person as a clue to interpreting french how-questions** (Jan Fliessbach, Lucia M. Tovena, Damien Fleury)
+* **Grammatical person as a clue to interpreting French how-questions** (Jan Fliessbach, Lucia M. Tovena, Damien Fleury)
 * **Does it take two to do an articulatory tango? Investigating the production of novel phonetic forms in varying communicative settings** (Leonie Schade, Daniel Duran, Sina Zarrieß, Joana Cholin, Petra Wagner)
 * **‘No no no no no no no’: Multiple repetition in dialogue** (Zulipiye Yusupujiang, Paola Herreno-Castaneda, Mathilde Dargnat, Jonathan Ginzburg)
 
