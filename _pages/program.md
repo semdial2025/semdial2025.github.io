@@ -35,7 +35,7 @@ toc: true
 | 16:00–17:15 | Keynote: Robert Hawkins |
 | 18:30–      | Conference Dinner |
 | **Fri, Sep. 5** | |
-| 09:00–11:00 | [Session 5 - Studies: Mediated Dialogue] (#session-5---studies-mediated-dialogue) | 
+| 09:00–11:00 | [Session 5 - Studies: Mediated Dialogue](#session-5---studies-mediated-dialogue) | 
 | 11:00–11:30 | Coffee Break| 
 | 11:30–12:45 | Keynote: David Schlangen | 
 | 12:45–13:00 | Closing |
