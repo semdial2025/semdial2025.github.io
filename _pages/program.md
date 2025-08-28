@@ -79,6 +79,7 @@ toc: true
 * **How task complexity and voice type shape prosodic and physiologic cues of engagement in human-machine dialogue** (Océane Granier, Laurent Prevot, Roxane Bertrand, Kévin Gravouil)
 * **The FLEX benchmark: Evaluating pragmatic competence in LLMs via false presuppositions** (Judith Sieker, Clara Lachenmaier, Sina Zarrieß)
 * **One '-hii' to rule them all: Functions and intonation of particle '-hii' in Hindi movie dialogues** (Shravani Patil, Farhat Jabeen)
+* **Intonation and prosodic phrasing of particle '-hii' in Hindi/Urdu dialogues** (Farhat Jabeen, Shravani Patil)
 * **Integrating LLMs into the DIARC cognitive architecture to resolve past temporal references** (Valerio Farriciello, Frank Förster)
 
 ## Poster Session 2
@@ -86,7 +87,6 @@ toc: true
 * **The dual nature as a local context to explore verbal behaviour in game explanations** (Josephine Beryl Fisher, Lutz Terfloth)
 * **Towards a discourse-structure based response classification for interviews** (René Nicolas, Arndt Riester)
 * **Contextual interpretation in human-robot dialogue** (Svetlana Stoyanchev, Youmna Farag, Simon Keizer, Mohan Li, Rama Doddipatla)
-* **Intonation and prosodic phrasing of particle '-hii' in Hindi/Urdu dialogues** (Farhat Jabeen, Shravani Patil)
 * **Mapping the landscape of dialogue research: A meta-analysis of ACL Anthology 2024** (Amandine Decker, Ellen Breitholtz, Maxime Amblard)
 * **Evaluating prosodic variation in English and Icelandic synthesized speech** (Caitlin Laura Richter, Naizeth Núñez Macías, Stefán Ólafsson, Jon Gudnason, Hannes Högni Vilhjálmsson)
 * **Conceptual pact models of reference in building games with dialogue: Scaling up from Pentomino Puzzles to the challenge of Minecraft** (Julian Hough, Chris Madge, Matthew Purver, Massimo Poesio)
