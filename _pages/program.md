@@ -48,7 +48,7 @@ toc: true
 
 ## Session 2 - Grounding and Repair
 * **Identifying repair opportunities in child-caregiver interactions** (Abhishek Agrawal, Benoit Favre, Abdellah Fourtassi)
-* **Do young adolescents draw on common ground like adults?** (Clara Gregoire, Rauzy Stéphane Retournard Héloïse, Maud Champagne-Lavau)
+* **Do young adolescents draw on common ground like adults?** (Clara Grégoire, Héloïse Retournard, Stéphane Rauzy, Maud Champagne-Lavau)
 * **Social repair** (Alafate Abulimiti, Vladislav Maraev)
 * **Misunderstanding the concrete, disagreeing about the abstract: A closer look at word meaning negotiation triggers** (Bill Noble, Staffan Larsson, Jenny Myrendal)
 
@@ -78,8 +78,8 @@ toc: true
 * **Communication at an angle** (Mattias Appelgren, Ellen Breitholtz, Robin Cooper, Simon Dobnik)
 * **How task complexity and voice type shape prosodic and physiologic cues of engagement in human-machine dialogue** (Océane Granier, Laurent Prevot, Roxane Bertrand, Kévin Gravouil)
 * **The FLEX benchmark: Evaluating pragmatic competence in LLMs via false presuppositions** (Judith Sieker, Clara Lachenmaier, Sina Zarrieß)
-* **One '-hii' to rule them all: Functions and intonation of particle '-hii' in Hindi movie dialogues** (Shravani Patil, Farhat Jabeen)
-* **Intonation and prosodic phrasing of particle '-hii' in Hindi/Urdu dialogues** (Farhat Jabeen, Shravani Patil)
+* **One *-hii* to rule them all: Functions and intonation of particle *-hii* in Hindi movie dialogues** (Shravani Patil, Farhat Jabeen)
+* **Intonation and prosodic phrasing of particle ‘*-hii*’ in Hindi/Urdu dialogues** (Farhat Jabeen, Shravani Patil)
 * **Integrating LLMs into the DIARC cognitive architecture to resolve past temporal references** (Valerio Farriciello, Frank Förster)
 
 ## Poster Session 2
@@ -87,9 +87,8 @@ toc: true
 * **The dual nature as a local context to explore verbal behaviour in game explanations** (Josephine Beryl Fisher, Lutz Terfloth)
 * **Towards a discourse-structure based response classification for interviews** (René Nicolas, Arndt Riester)
 * **Contextual interpretation in human-robot dialogue** (Svetlana Stoyanchev, Youmna Farag, Simon Keizer, Mohan Li, Rama Doddipatla)
-* **Mapping the landscape of dialogue research: A meta-analysis of ACL Anthology 2024** (Amandine Decker, Ellen Breitholtz, Maxime Amblard)
+* **Mapping the landscape of dialogue research: A meta-analysis of ACL Anthology 2024** (Amandine Decker, Maxime Amblard, Ellen Breitholtz)
 * **Evaluating prosodic variation in English and Icelandic synthesized speech** (Caitlin Laura Richter, Naizeth Núñez Macías, Stefán Ólafsson, Jon Gudnason, Hannes Högni Vilhjálmsson)
 * **Conceptual pact models of reference in building games with dialogue: Scaling up from Pentomino Puzzles to the challenge of Minecraft** (Julian Hough, Chris Madge, Matthew Purver, Massimo Poesio)
 * **MLLMs construction company – investigating multimodal LLMs'** Communicative Skills In a Collaborative Building Task (Marika Sarzotti, Giovanni Duca, Chris Madge, Raffaella Bernardi, Massimo Poesio)
-* **“Hepeating” and discursive harm** (Yuna Won)
 * **Learning to refer: How scene complexity affects emergent communication in neural agents** (Dominik Künkele, Simon Dobnik)
