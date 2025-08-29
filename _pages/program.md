@@ -84,7 +84,7 @@ toc: true
 
 ## Poster Session 2
 * **Across the board: Human-human game learning dialogues** (Mattias Appelgren, Erik Lagerstedt, Christine Howes, Asad B. Sayeed)
-* **The dual nature as a local context to explore verbal behaviour in game explanations** (Josephine Beryl Fisher, Lutz Terfloth)
+* **The dual nature as a local context to explore verbal behaviour in game explanations** (Josephine B. Fisher, Lutz Terfloth)
 * **Towards a discourse-structure based response classification for interviews** (René Nicolas, Arndt Riester)
 * **Contextual interpretation in human-robot dialogue** (Svetlana Stoyanchev, Youmna Farag, Simon Keizer, Mohan Li, Rama Doddipatla)
 * **Mapping the landscape of dialogue research: A meta-analysis of ACL Anthology 2024** (Amandine Decker, Maxime Amblard, Ellen Breitholtz)
