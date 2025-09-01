@@ -15,8 +15,10 @@ toc: false
 
 <img src="https://www.abdn.ac.uk/img/200x200/staffpages/uploads/s03as2/avatar/4A9pvt3VGgw8mLYGK8KFtwlTjkA0DXzGJ63snvy2.jpeg" width="150" alt="Photo of Arabella Sinclair" />
 
-* Title: Repetition as Coordination in Asymmetric Dialogue
-* Abstract: tba
+* **Title:** The Many Reasons for Repetition in Dialogue
+* **Abstract:** From children echoing caregivers to learn how to form utterances, to second-language learners mirroring teachers to gain fluency, to collaborators navigating knowledge asymmetries to ground goal-oriented dialogue, repetition shapes how we communicate and coordinate. This talk examines the multiple functions of repetition in conversational interaction, including easing processing demands, facilitating grounding, providing feedback, and signalling social alignment. I will show that repetition in human-human dialogue occurs across different levels of communication—lexical, structural, and gestural; that it is local in scope; varies with speaker relationships and communicative abilities; and can facilitate communicative success. I will then turn to repetition in Language Models. When generating next utterances within a dialogue context, LMs mirror some of the repetition behaviour associated with efficient collaborative dialogue in humans, including local repetition of lexical and syntactic forms. Moreover, in a behavioural task setting similar to priming studies in psychology, LMs’ expectations about upcoming structural material are modulated by similar contextual cues as in humans. In the final part of this talk, I will move beyond these broader parallels in repetition patterns to using LM priming effects to predict item-level neural correlates of priming in humans. Somewhat surprisingly, LMs do not robustly provide predictive power beyond a baseline model with established predictors. Comparing effects when prime and target are either linearly or hierarchically related, LMs more accurately predict human responses when the prime and target share sequence-level repetitions. 
+
+Altogether, while LMs exhibit superficially similar patterns of repetition and expectation as humans, this does not imply that the mechanisms underlying repetition are the same. Understanding and potentially adapting these mechanisms to more closely reflect human reasons for repetition could enable a deeper, more meaningful alignment between human and artificial dialogue systems.
 
 
 ## [Robert Hawkins](https://rdhawkins.com)
