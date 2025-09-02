@@ -11,6 +11,9 @@ header:
 toc: true
 ---
 
+**Proceedings:** The [SemDial 2025 – Bialogue Proceedings](https://purl.org/semdial/2025/proceedings) are now available to download.
+{: .notice--info}
+
 | Time        | Topic |
 | ----------- | ----- |
 | **Wed, Sep. 3** | |
@@ -18,7 +21,7 @@ toc: true
 | 09:00–09:15 | Welcome |
 | 09:15–10:30 | Keynote: Arabella Sinclair |
 | 10:30–10:50 | Coffee Break |
-| 10:50–12:20 | [Session 1 - Studies: Naturalistic Dialogue](#session-1---studies-naturalistic-dialogue) |
+| 10:50–12:20 | [Session 1 - Studies: Natural Dialogue](#session-1---studies-naturalistic-dialogue) |
 | 12:20–13:40 | Lunch Break |
 | 13:40–15:40 | [Session 2 - Grounding and Repair](#session-2---grounding-and-repair) |
 | 15:40–16:00 | Coffee Break |
