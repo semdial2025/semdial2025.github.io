@@ -16,8 +16,13 @@ header:
 
 Bialogue 2025 will be the 29th edition of the [SemDial workshop series](https://www.semdial.org) and will take place in Bielefeld, Germany from September 3–5, 2025 at [Bielefeld University](https://www.uni-bielefeld.de/).
 
-**Proceedings:** The [SemDial 2025 – Bialogue Proceedings](https://purl.org/semdial/2025/proceedings) are now available to download.
+
+**Programme Booklet:** Get the [SemDial 2025 – Bialogue Conference Programme Booklet](assets/semdial2025-conference-programme-mobile.pdf) (pdf)!
 {: .notice--info}
+
+**Proceedings:** Access the [SemDial 2025 – Bialogue Proceedings](https://purl.org/semdial/2025/proceedings) volume!
+{: .notice--success}
+
 
 
 ## Bialogue – Meaningful Interaction
