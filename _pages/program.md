@@ -80,7 +80,7 @@ toc: true
 * **Are you laughing at me? Patterns of laughter while playing a voice activated game in pairs compared to single-player** (Talha Bedir, Bora Kara, Christine Howes)
 * **Toward emotional description via meta-dialogue: A preliminary framework for data collection** (Kei Shimonishi, Koji Inoue, Yasuyuki Usuda, Rui Sakaida)
 * **Child-directed speech is fine-tuned to children's developmental needs** (Bastian Bunzeck, Holger Diessel)
-* **Surprised to kill: Quantifying LLM uncertainty in morally-charged triadic dialogues** (Vanessa Vanzan, Nikolai Ilinykh, Simon Dobnik, Christine Howes)
+* **Surprised to kill: Quantifying LLM uncertainty in morally-charged triadic dialogues** (Vanessa Vanzan, Nikolai Ilinykh, Erik Lagerstedt, Amy Han Qiu, Vladislav Maraev, Christine Howes)
 * **Communication at an angle** (Mattias Appelgren, Ellen Breitholtz, Robin Cooper, Simon Dobnik)
 * **How task complexity and voice type shape prosodic and physiologic cues of engagement in human-machine dialogue** (Océane Granier, Laurent Prevot, Roxane Bertrand, Kévin Gravouil)
 * **The FLEX benchmark: Evaluating pragmatic competence in LLMs via false presuppositions** (Judith Sieker, Clara Lachenmaier, Sina Zarrieß)
