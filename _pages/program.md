@@ -11,8 +11,11 @@ header:
 toc: true
 ---
 
-**Proceedings:** The [SemDial 2025 – Bialogue Proceedings](https://purl.org/semdial/2025/proceedings) are now available to download.
+**Programme Booklet:** Get the [SemDial 2025 – Bialogue Conference Programme Booklet](assets/semdial2025-conference-programme-mobile.pdf)! (pdf, opimized for mobile)
 {: .notice--info}
+
+**Proceedings:** Access the [SemDial 2025 – Bialogue Proceedings](https://purl.org/semdial/2025/proceedings)! (pdf, single volume)
+{: .notice--success}
 
 | Time        | Topic |
 | ----------- | ----- |
