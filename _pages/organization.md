@@ -1,7 +1,7 @@
 ---
 #layout: single
 permalink: /organization/
-title: "SemDial 2025 – Organization"
+title: "Organization"
 header:
   overlay_image: /assets/Uni_Bielefeld.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
