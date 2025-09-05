@@ -13,7 +13,7 @@ toc: false
 
 ## [Arabella Sinclair](https://j-anie.github.io)
 
-<img src="https://www.abdn.ac.uk/img/200x200/staffpages/uploads/s03as2/avatar/4A9pvt3VGgw8mLYGK8KFtwlTjkA0DXzGJ63snvy2.jpeg" width="150" alt="Photo of Arabella Sinclair" />
+<img src="../assets/arabella-sinclair.jpg" width="150" alt="Photo of Arabella Sinclair" />
 
 **Title:** The Many Reasons for Repetition in Dialogue
 
@@ -22,8 +22,8 @@ toc: false
 Altogether, while LMs exhibit superficially similar patterns of repetition and expectation as humans, this does not imply that the mechanisms underlying repetition are the same. Understanding and potentially adapting these mechanisms to more closely reflect human reasons for repetition could enable a deeper, more meaningful alignment between human and artificial dialogue systems.
 
 
-## [Robert Hawkins](https://rdhawkins.com)
-<img src="https://rdhawkins.com/wp-content/uploads/2019/12/2efa8952-50ee-4bb5-8f5f-f3eb14752dfe_1_201_a-e1575951441133.jpeg" width="150" alt="Photo of Robet Hawkins" />
+## [Robert D. Hawkins](https://rdhawkins.com)
+<img src="../assets/robert-hawkins.jpg" width="150" alt="Photo of Robet Hawkins" />
 
 **Title:** Foraging for Common Ground
 
@@ -32,7 +32,7 @@ Altogether, while LMs exhibit superficially similar patterns of repetition and e
 
 ## [David Schlangen](https://www.ling.uni-potsdam.de/~das/)
 
-<img src="https://www.ling.uni-potsdam.de/~das/DSchlangen_Portrait_2019_klein.jpg" width="150" alt="Photo of David Schlangen" />
+<img src="../assets/david-schlangen.jpg" width="150" alt="Photo of David Schlangen" />
 
 **Title:** Meaningful Interaction with Unreal Speakers?
 
