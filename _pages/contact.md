@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.7 
   image_description: 
   caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
-toc: true
+toc: false
 layout: single
 ---
 
