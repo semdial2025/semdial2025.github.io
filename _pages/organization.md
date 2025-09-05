@@ -14,22 +14,22 @@ layout: single
 
 ## Local Organizing Committee
 
-- [Hendrik Buschmeier](https://purl.org/net/hbuschme)
-- [Stefan Kopp](https://www.techfak.uni-bielefeld.de/~skopp/)
-- [Clara Lachenmaier](https://de.linkedin.com/in/clara-lachenmaier-a088472ba)
-- [Lina Mavrina](https://www.linkedin.com/in/lina-mavrina-a9358a292/)
-- [Maryam Mohammadi](https://mohammadi-maryam.github.io/)
+- [Hendrik Buschmeier](https://purl.org/net/hbuschme) (Bielefeld University, Department of Linguistics)
+- [Stefan Kopp](https://www.techfak.uni-bielefeld.de/~skopp/) (Bielefeld University, Faculty of Technology)
+- [Clara Lachenmaier](https://de.linkedin.com/in/clara-lachenmaier-a088472ba) (Bielefeld University, Department of Linguistics)
+- [Lina Mavrina](https://www.linkedin.com/in/lina-mavrina-a9358a292/) (Bielefeld University, Faculty of Technology)
+- [Maryam Mohammadi](https://mohammadi-maryam.github.io/) (Bielefeld University, SFB 1646)
 - [Dagmar Philipp](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=27264073)
-- [Amelie Robrecht](https://de.linkedin.com/in/amelie-sophie-robrecht-5b2593276)
-- [Sina Zarrieß](https://sinazarriess.github.io/)
+- [Amelie Robrecht](https://de.linkedin.com/in/amelie-sophie-robrecht-5b2593276) (Bielefeld University, Faculty of Technology)
+- [Sina Zarrieß](https://sinazarriess.github.io/) (Bielefeld University, Department of Linguistics)
 
 
 ## Programme Committee Chairs
 
-- [Hendrik Buschmeier](https://purl.org/net/hbuschme)
+- [Hendrik Buschmeier](https://purl.org/net/hbuschme) (Bielefeld University)
 - [Nikolai Ilinykh](https://www.gu.se/en/event/nikolai-ilinykh-computational-models-of-language-and-vision-studies-of-neural-models-as-learners-of-multi-modal-knowledge) (University of Gothenburg)
-- [Stefan Kopp](https://www.techfak.uni-bielefeld.de/~skopp/)
-- [Amelie Robrecht](https://de.linkedin.com/in/amelie-sophie-robrecht-5b2593276)
+- [Stefan Kopp](https://www.techfak.uni-bielefeld.de/~skopp/) (Bielefeld University)
+- [Amelie Robrecht](https://de.linkedin.com/in/amelie-sophie-robrecht-5b2593276) (Bielefeld University)
 
 
 ## SemDial Board Chairs
