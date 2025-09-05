@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /register/
+permalink: /vta/
 title: "Venue, Travel and Accommodation"
 header:
   overlay_image: /assets/uni-bielefeld.jpg
