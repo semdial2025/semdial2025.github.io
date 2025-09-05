@@ -10,6 +10,12 @@ header:
 toc: false
 ---
 
+
+* **Arabella Sinclair**: [The Many Reasons for Repetition in Dialogue](#arabella-sinclair)
+* **Robert D. Hawkins**: [Foraging for Common Ground])(#robert-hawkins)
+* **David Schlangen**: [Meaningful Interaction with Unreal Speakers?](#david-schlangen)
+
+
 ## [Arabella Sinclair](https://j-anie.github.io)
 
 <img src="../assets/arabella-sinclair.jpg" width="150" alt="Photo of Arabella Sinclair" />
