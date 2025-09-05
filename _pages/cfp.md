@@ -1,7 +1,7 @@
 ---
 #layout: single
 permalink: /cfp/
-title: "Call for Paper"
+title: "Call for Papers"
 header:
   overlay_image: /assets/Uni_Bielefeld.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
@@ -15,7 +15,7 @@ layout: single
 
 ## Information
 
-We invite submissions for Bialogue 2025, the 29th edition of the SemDial workshop series at Bielefeld University, Germany. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
+We invite submissions for SemDial 2025 – Bialogue, the 29th Workhsop on the Semantics and Pragmatics of Dialogue at Bielefeld University, Bielefeld Germany. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
 
 
 ## Topics
@@ -70,17 +70,4 @@ Submissions should meet the following requirements:
 
 ## Important Dates
 
-**All deadlines are 23:59 UTC -12h (“Anywhere on Earth”)**
-
-|                             |                     | 
-| --------------------------- | ------------------- |
-| Submission opens            | ~~March 1, 2025~~   |
-| Long Paper Deadline         | ~~June 2, 2025~~    |
-| Reviews due                 | ~~June 30, 2025~~   |
-| Notification (long)         | ~~July 04, 2025~~   |
-| Camera Ready (long)         | July 18, 2025       |
-| **Short Paper (Poster) Deadline** | **July 18, 2025** |
-| Notification (short papers) | July 25, 2025       |
-| Camera Ready (short papers) | August 9, 2025      |
-| Registration Deadline       | August 15, 2025     |
-| Bialogue 2025               | September 3–5, 2025 |
+(see [Important Dates](../important-dates)).
