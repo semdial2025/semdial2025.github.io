@@ -1,6 +1,6 @@
 ---
 #layout: single
-permalink: /contact/
+permalink: /organization/
 title: "SemDial 2025 – Organization"
 header:
   overlay_image: /assets/Uni_Bielefeld.jpg
