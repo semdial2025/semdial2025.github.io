@@ -12,7 +12,7 @@ toc: false
 
 
 * **Arabella Sinclair**: [The Many Reasons for Repetition in Dialogue](#arabella-sinclair)
-* **Robert D. Hawkins**: [Foraging for Common Ground](#robert-hawkins)
+* **Robert D. Hawkins**: [Foraging for Common Ground](#robert-d-hawkins)
 * **David Schlangen**: [Meaningful Interaction with Unreal Speakers?](#david-schlangen)
 
 
