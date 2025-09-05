@@ -27,4 +27,4 @@ layout: single
 | Notification (Short Papers) | ~~July 25, 2025~~   |
 | Camera Ready (Short Papers) | ~~August 09, 2025~~ |
 | Registration Deadline       | ~~August 22, 2025~~ |
-| **Bialogue Workshop**       | **September 3–5, 2025** |
+| **SemDial 2025 – Bialogue** | **September 3–5, 2025** |
