@@ -36,3 +36,20 @@ layout: single
 
 - [Ellen Breitholtz](https://www.gu.se/en/about/find-staff/ellenbreitholtz) (University of Gothenburg)
 - [Julian Hough](https://www.swansea.ac.uk/staff/julian.hough/) (Swansea University)
+
+## Support, Sponsors and Endorsement
+
+SemDial 2025 – Bialogue was supported by
+
+* [Bielefeld University](https://www.uni-bielefeld.de/)
+
+SemDial 2025 – Bialogue was sponsored by
+
+* [Collaborative Research Centre SFB 1646 ‘Linguistics Creativity in Communication’](https://www.uni-bielefeld.de/sfb/sfb1646/)
+* [Collaborative Research Center TRR 318 ‘Constructing Explainability’](https://trr318.uni-paderborn.de/)
+* [SAIL – Sustainable Life-Cycle of Intelligent Socio-Technical Systems](https://www.sail.nrw/)
+
+SemDial 2025 – Bialogue was endorsed by
+
+* [ACL SIGdial – Special Interest Group on Discourse and Dialogue](https://www.sigdial.org/)
+* [ACL SIGSEM – Special Interest Group on Computational Semantics](https://www.sigsem.org/) 
