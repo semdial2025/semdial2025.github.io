@@ -127,7 +127,7 @@ toc: true
   (Talha Bedir, Bora Kara, Christine Howes)
 * [Toward emotional description via meta-dialogue: A preliminary framework for data collection](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4424/) 
   (Kei Shimonishi, Koji Inoue, Yasuyuki Usuda and Rui Sakaida)
-* Non-archival: Child-directed speech is fine-tuned to children's developmental needs [non-archival]
+* Child-directed speech is fine-tuned to children's developmental needs [non-archival]
   (Bastian Bunzeck and Holger Diessel)
 * [Surprised to kill: Quantifying LLM uncertainty in morally-charged triadic dialogues](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4425/) 
   (Vanessa Vanzan, Nikolai Ilinykh, Erik Lagerstedt, Amy Han Qiu, Vladislav Maraev and Christine Howes)
