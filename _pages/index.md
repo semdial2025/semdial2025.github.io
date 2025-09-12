@@ -7,6 +7,8 @@ header:
   image: /assets/semdial2025-banner-small.png
 ---
 
+**Proceedings:** Individual papers of the [SemDial 2025 – Bialogue Proceedings](https://purl.org/semdial/2025/proceedings) are now available in the [SemDial Anthology](https://www.semdial.org/anthology/events/semdial-2025/)!
+{: .notice--success}
 
 ## Welcome
 
@@ -20,8 +22,7 @@ Bielefeld University has more than 30 years of history in dialogue research span
 
 The theme of SemDial 2025 – Bialogue is “Meaningful Interaction”. The communication of meaning in interactive dialogue between humans and machines has always been the focus of SemDial workshops. Recent developments in natural language processing have brought artificial conversational agents out of the lab and into everyday interactions with technology, bringing urgency to the question of whether such interactions are actually meaningful. A special focus of Bialogue 2025 will therefore be on empirical, theoretical, and computational work that investigates the prerequisites for meaningful interaction, such as cognitive mechanisms, computational representations, but also human users' attitudes or ethical considerations.
 
-**Proceedings:** Access the [SemDial 2025 – Bialogue Proceedings](https://purl.org/semdial/2025/proceedings) volume!
-{: .notice--success}
+
 
 **Programme Booklet:** Get the [SemDial 2025 – Bialogue Conference Programme Booklet](assets/semdial2025-conference-programme-mobile.pdf) (pdf)!
 {: .notice--info}
