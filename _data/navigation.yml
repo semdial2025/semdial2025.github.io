@@ -1,6 +1,8 @@
 main:
   - title: "Programme"
     url: /program/
+  - title: "Proceedings"
+    url: https://www.semdial.org/anthology/events/semdial-2025/
   - title: "Keynotes"
     url: /keynotes/
   - title: "Organization"
