@@ -11,6 +11,6 @@ toc: false
 layout: single
 ---
 
-For questions and comments regarding SemDial 2025 – Bialogue contact the organisers:
+For questions and comments regarding *SemDial 2025 – Bialogue* contact one of the [organisers](/organization/), e.g., 
 
-* [semdial2025@uni-bielefeld.de](mailto:semdial2025@uni-bielefeld.de)
+* Hendrik Buschmeier <[hbuschme@uni-bielefeld.de](mailto:hbuschme@uni-bielefeld.de)>
