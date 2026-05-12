@@ -18,8 +18,8 @@ layout: single
 - [Stefan Kopp](https://www.techfak.uni-bielefeld.de/~skopp/) (Bielefeld University, Faculty of Technology)
 - [Clara Lachenmaier](https://de.linkedin.com/in/clara-lachenmaier-a088472ba) (Bielefeld University, Department of Linguistics)
 - [Lina Mavrina](https://www.linkedin.com/in/lina-mavrina-a9358a292/) (Bielefeld University, Faculty of Technology)
-- [Maryam Mohammadi](https://mohammadi-maryam.github.io/) (Bielefeld University, SFB 1646) (Bielefeld University, Faculty of Technology)
-- [Dagmar Philipp](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=27264073)
+- [Maryam Mohammadi](https://mohammadi-maryam.github.io/) (Bielefeld University, SFB 1646)
+- [Dagmar Philipp](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=27264073) (Bielefeld University, Faculty of Technology)
 - [Amelie Robrecht](https://de.linkedin.com/in/amelie-sophie-robrecht-5b2593276) (Bielefeld University, Faculty of Technology)
 - [Sina Zarrieß](https://sinazarriess.github.io/) (Bielefeld University, Department of Linguistics)
 
